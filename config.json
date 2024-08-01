@@ -1,3 +1,4 @@
 {
-  "url": "http://127.0.0.1:8000/#/"
+  "browser": "Firefox",
+  "client_secret_file": "C:\\Users\\evoix\\PycharmProjects\\project-finale\\client_secret.json"
 }
