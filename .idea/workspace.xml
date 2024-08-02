@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ba892e-89e0-4e2d-9ebe-f41f2317e117" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/api/api_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/api/entity/auth_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/api/spotify_authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/api/spotify_refresh_token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/config_provider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/infra/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +28,12 @@
     &quot;assignee&quot;: &quot;ixayman&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ixayman/project-finale.git",
-    "accountId": "b761190d-6085-47d3-a32a-a2738827bbf8"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ixayman/project-finale.git&quot;,
+    &quot;accountId&quot;: &quot;b761190d-6085-47d3-a32a-a2738827bbf8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -52,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile.executor": "Run",
-    "Python.spotify_authentication.executor": "Run",
-    "Python.spotify_refresh_authentication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/evoix/PycharmProjects/project-finale",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spotify_authentication.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spotify_refresh_authentication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/evoix/PycharmProjects/project-finale&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile">
     <configuration name="spotify_authentication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-finale" />

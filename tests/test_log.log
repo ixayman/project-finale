@@ -1,0 +1,100 @@
+2024-08-02 14:13:40,645 - test_search - INFO - --------------------------
+2024-08-02 14:13:40,645 - test_search - INFO - Loading configuration
+2024-08-02 14:13:40,656 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:13:45,336 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:13:46,968 - test_search - INFO - Browser opened
+2024-08-02 14:13:46,987 - test_search - INFO - Cookies loaded
+2024-08-02 14:14:49,666 - test_search - INFO - --------------------------
+2024-08-02 14:14:49,667 - test_search - INFO - Loading configuration
+2024-08-02 14:14:49,670 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:14:54,337 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:14:56,132 - test_search - INFO - Browser opened
+2024-08-02 14:16:01,049 - test_search - INFO - Cookies loaded
+2024-08-02 14:16:01,330 - test_search - INFO - Search button clicked
+2024-08-02 14:16:01,330 - test_search - INFO - Test completed
+2024-08-02 14:17:47,233 - test_search - INFO - --------------------------
+2024-08-02 14:17:47,233 - test_search - INFO - Loading configuration
+2024-08-02 14:17:47,236 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:17:51,853 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:17:53,715 - test_search - INFO - Browser opened
+2024-08-02 14:18:57,556 - test_search - INFO - Cookies loaded
+2024-08-02 14:18:57,827 - test_search - INFO - Search button clicked
+2024-08-02 14:18:57,827 - test_search - INFO - Test completed
+2024-08-02 14:22:27,680 - test_search - INFO - --------------------------
+2024-08-02 14:22:27,680 - test_search - INFO - Loading configuration
+2024-08-02 14:22:27,682 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:22:32,344 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:22:34,343 - test_search - INFO - Browser opened
+2024-08-02 14:25:58,299 - test_search - INFO - --------------------------
+2024-08-02 14:25:58,299 - test_search - INFO - Loading configuration
+2024-08-02 14:25:58,302 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:26:02,945 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:26:59,516 - test_search - INFO - --------------------------
+2024-08-02 14:26:59,517 - test_search - INFO - Loading configuration
+2024-08-02 14:26:59,518 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:27:04,279 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:27:06,109 - test_search - INFO - Browser opened
+2024-08-02 14:27:42,491 - test_search - INFO - Cookies loaded
+2024-08-02 14:37:45,260 - test_search - INFO - --------------------------
+2024-08-02 14:37:45,260 - test_search - INFO - Loading configuration
+2024-08-02 14:37:45,262 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:37:49,892 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:37:51,551 - test_search - INFO - Browser opened
+2024-08-02 14:37:57,724 - test_search - INFO - Cookies loaded
+2024-08-02 14:38:53,049 - test_search - INFO - --------------------------
+2024-08-02 14:38:53,050 - test_search - INFO - Loading configuration
+2024-08-02 14:38:53,051 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:38:57,772 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:40:26,692 - test_search - INFO - --------------------------
+2024-08-02 14:40:26,693 - test_search - INFO - Loading configuration
+2024-08-02 14:40:26,694 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:40:31,346 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:40:33,077 - test_search - INFO - Browser opened
+2024-08-02 14:40:39,306 - test_search - INFO - Cookies loaded
+2024-08-02 14:41:27,480 - test_search - INFO - --------------------------
+2024-08-02 14:41:27,480 - test_search - INFO - Loading configuration
+2024-08-02 14:41:27,482 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:41:32,121 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:41:49,428 - test_search - INFO - --------------------------
+2024-08-02 14:41:49,428 - test_search - INFO - Loading configuration
+2024-08-02 14:41:49,431 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:41:54,118 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:41:55,894 - test_search - INFO - Browser opened
+2024-08-02 14:42:02,131 - test_search - INFO - Cookies loaded
+2024-08-02 14:42:24,880 - test_search - INFO - --------------------------
+2024-08-02 14:42:24,880 - test_search - INFO - Loading configuration
+2024-08-02 14:42:24,881 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:42:29,508 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:42:31,354 - test_search - INFO - Browser opened
+2024-08-02 14:42:42,582 - test_search - INFO - Cookies loaded
+2024-08-02 14:43:39,221 - test_search - INFO - --------------------------
+2024-08-02 14:43:39,221 - test_search - INFO - Loading configuration
+2024-08-02 14:43:39,223 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:43:43,871 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:43:45,785 - test_search - INFO - Browser opened
+2024-08-02 14:44:03,267 - test_search - INFO - --------------------------
+2024-08-02 14:44:03,267 - test_search - INFO - Loading configuration
+2024-08-02 14:44:03,268 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:44:07,975 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:44:09,676 - test_search - INFO - Browser opened
+2024-08-02 14:44:20,877 - test_search - INFO - Cookies loaded
+2024-08-02 14:50:45,743 - test_search - INFO - --------------------------
+2024-08-02 14:50:45,743 - test_search - INFO - Loading configuration
+2024-08-02 14:50:45,745 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:50:50,392 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:50:52,327 - test_search - INFO - Browser opened
+2024-08-02 14:51:03,491 - test_search - INFO - Cookies loaded
+2024-08-02 14:51:03,818 - test_search - INFO - Search button clicked
+2024-08-02 14:51:03,818 - test_search - INFO - Test completed
+2024-08-02 14:51:04,940 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-02 14:51:04,940 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-02 14:51:30,437 - test_search - INFO - --------------------------
+2024-08-02 14:51:30,437 - test_search - INFO - Loading configuration
+2024-08-02 14:51:30,438 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:51:35,122 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:51:36,749 - test_search - INFO - Browser opened
+2024-08-02 14:51:42,900 - test_search - INFO - Cookies loaded
+2024-08-02 14:51:43,203 - test_search - INFO - Search button clicked
+2024-08-02 14:51:43,203 - test_search - INFO - Test completed
+2024-08-02 14:51:44,550 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-02 14:51:44,550 - infra.ui.browser_wrapper - INFO - --------------------------

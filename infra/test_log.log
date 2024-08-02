@@ -1,0 +1,16 @@
+2024-08-02 13:54:49,019 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 13:54:54,464 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 13:55:18,985 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 13:55:23,645 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/login
+2024-08-02 13:56:47,074 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 13:57:12,078 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/login
+2024-08-02 13:59:13,971 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 13:59:18,641 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 13:59:47,913 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 13:59:52,647 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:16:59,970 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:17:04,635 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:25:18,738 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:25:23,412 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-02 14:36:29,112 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-02 14:36:33,849 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/

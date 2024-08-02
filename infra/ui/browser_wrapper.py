@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.common.exceptions import *
+from selenium.webdriver.support.wait import WebDriverWait
 
 from infra.logger import Logger
 
@@ -27,6 +28,7 @@ class BrowserWrapper:
                 self._driver.maximize_window()
                 self.logger.info(f"Navigating to URL: {url}")
                 self._driver.get(url)
+                WebDriverWait(self._driver, 10)
             else:
                 self.logger.error(f"Page '{page}' not found in the configuration.")
                 exit(-1)
