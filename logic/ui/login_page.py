@@ -13,6 +13,7 @@ class LoginPage(BasePage):
     USERNAME_INPUT = '//input[@id="login-username"]'
     PASSWORD_INPUT = '//input[@id="login-password"]'
     LOGIN_BUTTON = '//button[@id="login-button"]'
+    INVALID_LOGIN_MESSAGE = '//span[text()="Incorrect username or password."]'
 
     def __init__(self, driver):
         super().__init__(driver)
@@ -29,6 +30,14 @@ class LoginPage(BasePage):
 
     def click_login_button(self):
         self.login_button.click()
+
+    def check_invalid_login_message(self):
+        try:
+            WebDriverWait(self._driver, 3).until(
+                ec.visibility_of_element_located((By.XPATH, self.INVALID_LOGIN_MESSAGE)))
+            return True
+        except NoSuchElementException:
+            return False
 
     def login_flow(self, username, password):
         self.insert_username(username)

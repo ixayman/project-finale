@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ba892e-89e0-4e2d-9ebe-f41f2317e117" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/logic/api/playlist_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/api/user_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/entity/api_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/entity/playlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic/entity/ui_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/entity/test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_add_item_to_playlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_rearrange_playlist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/api/api_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/api/api_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/api/entity/spotify_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/api/entity/spotify_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/config_provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/config_provider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/ui/entity/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/ui/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/ui/home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/ui/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/ui/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/api/test_get_user_profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_get_user_profile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/ui/test_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,19 +61,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.spotify_authentication.executor&quot;: &quot;Run&quot;,
-    &quot;Python.spotify_refresh_authentication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/evoix/PycharmProjects/project-finale&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile.executor": "Run",
+    "Python tests.Python tests for test_login.TestLogin.test_login_with_invalid_credentials.executor": "Run",
+    "Python tests.Python tests for test_login.TestLogin.test_login_with_valid_credentials.executor": "Run",
+    "Python tests.Python tests for test_playlist.TestSearch.test_add_to_liked_list.executor": "Run",
+    "Python tests.Python tests for test_rearrange_playlist.TestSearch.test_rearrange_playlist.executor": "Run",
+    "Python.spotify_authentication.executor": "Run",
+    "Python.spotify_refresh_authentication.executor": "Run",
+    "Python.spotify_refresh_token (1).executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/evoix/PycharmProjects/project-finale",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python tests.Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\evoix\PycharmProjects\5tech\project-finale\logic" />
+      <recent name="C:\Users\evoix\PycharmProjects\5tech\project-finale\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_rearrange_playlist.TestSearch.test_rearrange_playlist">
     <configuration name="spotify_authentication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-finale" />
       <option name="ENV_FILES" value="" />
@@ -78,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spotify_refresh_token" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="spotify_refresh_token (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="project-finale" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\evoix\PycharmProjects\project-finale\infra\api\spotify_refresh_token.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infra/api/spotify_refresh_token.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,26 +129,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_login.TestLogin.test_login_with_invalid_credentials" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="project-finale" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/api" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_get_user_profile.TestSpotifyAPI.test_user_profile&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_login_with_invalid_credentials&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_rearrange_playlist.TestSearch.test_rearrange_playlist" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project-finale" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_rearrange_playlist.TestSearch.test_rearrange_playlist&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_add_item_to_playlist.TestSearch.test_add_to_liked_list" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project-finale" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_add_item_to_playlist.TestSearch.test_add_to_liked_list&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile" />
-        <item itemvalue="Python.spotify_refresh_token" />
+        <item itemvalue="Python tests.Python tests for test_rearrange_playlist.TestSearch.test_rearrange_playlist" />
+        <item itemvalue="Python.spotify_refresh_token (1)" />
         <item itemvalue="Python.spotify_authentication" />
+        <item itemvalue="Python tests.Python tests for tests.test_add_item_to_playlist.TestSearch.test_add_to_liked_list" />
+        <item itemvalue="Python tests.Python tests for test_login.TestLogin.test_login_with_invalid_credentials" />
       </list>
     </recent_temporary>
   </component>
@@ -140,5 +201,16 @@
       <updated>1722329882716</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_rearrange_playlist.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

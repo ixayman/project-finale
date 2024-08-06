@@ -22,3 +22,6 @@ class SpotifyScopes(Enum):
     USER_MODIFY_PLAYBACK_STATE = "user-modify-playback-state"
     USER_READ_CURRENTLY_PLAYING = "user-read-currently-playing"
     APP_REMOTE_CONTROL = "app-remote-control"
+    USE_LIBRARY_READ = "user-library-read"
+    PLAYLIST_MODIFY_PRIVATE = "playlist-modify-private"
+    PLAYLIST_MODIFY_PUBLIC = "playlist-modify-public"
