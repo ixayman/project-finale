@@ -1,7 +1,6 @@
 import unittest
 from infra.api.entity.spotify_constants import SpotifyConfig
 from infra.api.api_wrapper import APIWrapper
-from infra.api.response_wrapper import ResponseWrapper
 from infra.secret_handler import SecretHandler
 
 
