@@ -1,11 +1,12 @@
 import pickle
 import time
 
-import requests
-from selenium.webdriver.support.wait import WebDriverWait
+from infra.logger import Logger
 
 
 def load_cookies(driver, config):
+    logger = Logger.setup_logger(__name__)
+    logger.info("Loading cookies")
     try:
         # Load cookies from file
         with open(config['cookies_file'], 'rb') as file:
@@ -16,6 +17,7 @@ def load_cookies(driver, config):
         return f"Error loading cookies: %s {e}"
     # Refresh the browser to apply cookies
     driver.refresh()
+    logger.info("Cookies loaded")
     time.sleep(5)
     return
 

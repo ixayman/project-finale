@@ -3,6 +3,13 @@ import string
 import re
 
 
+def generate_random_float(min, max):
+    """
+          generates a random float between min and max
+          """
+    return round(random.uniform(min, max), 2)
+
+
 def generate_random_string(length):
     """
           generates a random letters string for a given length

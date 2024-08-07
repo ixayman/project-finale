@@ -1,4 +1,3 @@
-import time
 import unittest
 
 from infra.logger import Logger
@@ -7,10 +6,10 @@ from infra.ui.browser_wrapper import BrowserWrapper
 from logic.ui.home_page import HomePage
 from logic.api.playlist_api import PlaylistAPI
 from tests.utils import load_cookies
-from tests.entity.test_data import TestSong, TestPlaylist
+from tests.entity.test_data import SampleSong
 
 
-class TestAddItemToPlaylist(unittest.TestCase):
+class TestAddTrackToLikedList(unittest.TestCase):
 
     def setUp(self):
         """
@@ -28,15 +27,15 @@ class TestAddItemToPlaylist(unittest.TestCase):
         self.playlist_api = PlaylistAPI()
 
     def tearDown(self):
-        self.playlist_api.remove_track_from_playlist(TestPlaylist.id.value, TestSong.id.value)
+        self.home_page.click_save_to_library_button()
         self.browser.close_driver()
+        self.playlist_api = None
 
-    def test_add_to_playlist(self):
+    def test_add_track_to_liked_list(self):
         self.home_page.click_search_button()
-        self.home_page.insert_in_search_field(TestSong.name.value + ' ' + TestSong.artist.value)
+        self.home_page.insert_in_search_field(SampleSong.name.value + ' ' + SampleSong.artist.value)
         self.home_page.click_top_search_result()
-        self.home_page.click_more_options_button()
-        self.home_page.hover_on_add_to_playlist_button()
-        self.home_page.click_test_playlist_button()
-        response = self.playlist_api.get_playlist_items(TestPlaylist.id.value)
-        self.assertTrue(self.playlist_api.check_item_in_playlist(response, TestSong.id.value))
+        self.home_page.click_save_to_library_button()
+        response = self.playlist_api.get_liked_songs()
+        self.assertEqual(response.status_code, 200, f"Expected status code 200, got {response.status_code}")
+        self.assertTrue(self.playlist_api.check_item_in_playlist(response.json(), SampleSong.id.value))

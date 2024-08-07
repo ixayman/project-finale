@@ -1,3 +1,5 @@
+import json
+
 from infra.api.api_wrapper import APIWrapper
 from infra.config_provider import ConfigProvider
 from infra.secret_handler import SecretHandler
@@ -13,13 +15,12 @@ class PlaylistAPI:
 
     def get_liked_songs(self):
         return self.api.get_request(self.config['api-url'] + 'me/tracks',
-                                    headers={'Authorization': 'Bearer ' + self.secret['access_token']}).json()
+                                    headers={'Authorization': 'Bearer ' + self.secret['access_token']})
 
     @staticmethod
-    def check_song_in_liked_playlist(response, name, artist):
-        print(response)
+    def check_item_in_playlist(response, id):
         for item in response['items']:
-            if item['track']['name'] == name and item['track']['artists'][0]['name'] == artist:
+            if item['track']['id'] == id:
                 return True
         return False
 
@@ -46,4 +47,17 @@ class PlaylistAPI:
 
     def get_playlist_items(self, id):
         return self.api.get_request(self.config['api-url'] + f'playlists/{id}/tracks',
-                                    headers={'Authorization': 'Bearer ' + self.secret['access_token']}).json()
+                                    headers={'Authorization': 'Bearer ' + self.secret['access_token']})
+
+    def remove_track_from_playlist(self, playlist_id, track_id):
+        body = {
+            'tracks': [
+                {
+                    "uri": f"spotify:track:{track_id}"
+                }
+            ]
+        }
+        body = json.dumps(body)
+        return self.api.delete_request(self.config['api-url'] + f'playlists/{playlist_id}/tracks',
+                                       headers={'Authorization': 'Bearer ' + self.secret['access_token']},
+                                       body=body)

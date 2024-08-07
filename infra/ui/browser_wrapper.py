@@ -1,8 +1,8 @@
 from selenium import webdriver
 from selenium.common.exceptions import *
 from selenium.webdriver.support.wait import WebDriverWait
-
 from infra.logger import Logger
+from selenium.webdriver.firefox.options import Options
 
 
 class BrowserWrapper:
@@ -19,10 +19,13 @@ class BrowserWrapper:
             if browser == "Chrome":
                 self._driver = webdriver.Chrome()
             elif browser == "Firefox":
-                self._driver = webdriver.Firefox()
+                options = Options()
+                options.set_preference("media.eme.enabled", True)
+                options.set_preference("media.gmp-manager.updateEnabled", True)
+                self._driver = webdriver.Firefox(options=options)
             else:
                 raise ValueError(f"Unsupported browser: {browser}")
-
+            self.logger.info("Browser opened")
             url = config.get(page)
             if url:
                 self._driver.maximize_window()
@@ -38,7 +41,6 @@ class BrowserWrapper:
             raise
 
     def close_driver(self):
-        self.logger = Logger.setup_logger(__name__)
         if self._driver:
             self._driver.close()
             self.logger.info("browser closed")

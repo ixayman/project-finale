@@ -1,8 +1,6 @@
-import time
 import unittest
 
 from infra.logger import Logger
-from infra.utils import generate_random_string
 from infra.config_provider import ConfigProvider
 from infra.ui.browser_wrapper import BrowserWrapper
 from logic.ui.home_page import HomePage

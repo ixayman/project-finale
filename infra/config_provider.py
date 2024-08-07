@@ -6,7 +6,7 @@ class ConfigProvider:
     @staticmethod
     def load_from_file():
         try:
-            with open(r'C:\Users\evoix\PycharmProjects\5tech\project-finale\config.json', 'r') as f:
+            with open(r'C:\Users\evoix\PycharmProjects\project-finale\config.json', 'r') as f:
                 config = json.load(f)
                 return config
         except FileNotFoundError:
