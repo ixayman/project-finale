@@ -9,5 +9,5 @@ class SampleSong(Enum):
 
 
 class SamplePlaylist(Enum):
-    name = "Test playlist"
+    name = "test Playlist"
     id = "5WgkeXhIxwfyqOmmhKB5aW"

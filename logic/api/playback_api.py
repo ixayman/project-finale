@@ -1,9 +1,6 @@
-import json
-
 from infra.api.api_wrapper import APIWrapper
 from infra.config_provider import ConfigProvider
 from infra.secret_handler import SecretHandler
-from logic.entity.playlist import Playlist
 
 
 class PlaybackAPI:

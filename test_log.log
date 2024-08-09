@@ -529,3 +529,1265 @@ receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild
 2024-08-07 22:33:54,806 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
 2024-08-07 22:34:04,456 - infra.ui.browser_wrapper - INFO - browser closed
 2024-08-07 22:34:04,456 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:06:05,180 - test_player_progress_bar - INFO - --------------------------
+2024-08-08 10:06:05,180 - test_player_progress_bar - INFO - Loading configuration
+2024-08-08 10:06:05,180 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:06:09,927 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:06:10,184 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:06:11,972 - tests.utils - INFO - Loading cookies
+2024-08-08 10:06:13,965 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:06:25,839 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-08 10:06:30,286 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:06:30,286 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:06:47,460 - test_player_progress_bar - INFO - --------------------------
+2024-08-08 10:06:47,460 - test_player_progress_bar - INFO - Loading configuration
+2024-08-08 10:06:47,460 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:06:51,883 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:06:52,147 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:06:54,076 - tests.utils - INFO - Loading cookies
+2024-08-08 10:06:55,560 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:07:08,402 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-08 10:07:13,459 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:07:13,459 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:08:26,729 - test_player_progress_bar - INFO - --------------------------
+2024-08-08 10:08:26,729 - test_player_progress_bar - INFO - Loading configuration
+2024-08-08 10:08:26,729 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:08:31,122 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:08:31,400 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:08:33,387 - tests.utils - INFO - Loading cookies
+2024-08-08 10:08:34,983 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:08:47,829 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-08 10:08:51,214 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:08:51,214 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:40:24,039 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:40:24,039 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:40:24,040 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:40:28,465 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:40:28,727 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:40:30,386 - tests.utils - INFO - Loading cookies
+2024-08-08 10:40:32,142 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:40:37,143 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:40:43,818 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:40:43,818 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:41:44,458 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:41:44,458 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:41:44,459 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:41:48,968 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:41:49,233 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:41:54,157 - tests.utils - INFO - Loading cookies
+2024-08-08 10:41:55,723 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:42:00,724 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:42:05,777 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:42:05,778 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:42:39,362 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:42:39,362 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:42:39,363 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:42:43,760 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:42:44,018 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:42:45,836 - tests.utils - INFO - Loading cookies
+2024-08-08 10:42:47,371 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:42:52,373 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:43:28,424 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:43:28,424 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:44:23,194 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:44:23,195 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:44:23,195 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:44:27,702 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:44:27,966 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:44:30,015 - tests.utils - INFO - Loading cookies
+2024-08-08 10:44:31,628 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:44:36,629 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:45:16,699 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:45:16,699 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:46:07,537 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:46:07,538 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:46:07,538 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:46:11,946 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:46:12,211 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:46:14,019 - tests.utils - INFO - Loading cookies
+2024-08-08 10:46:15,525 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:46:20,526 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:46:48,401 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:46:48,401 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:48:37,210 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:48:37,210 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:48:37,210 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:48:41,709 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:48:41,971 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:48:43,750 - tests.utils - INFO - Loading cookies
+2024-08-08 10:48:45,392 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:48:50,393 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:48:58,152 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:48:58,152 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:51:58,423 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:51:58,423 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:51:58,423 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:52:02,870 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:52:03,137 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:52:04,904 - tests.utils - INFO - Loading cookies
+2024-08-08 10:52:06,624 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:52:11,625 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:52:34,428 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:52:34,429 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:53:54,884 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:53:54,884 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:53:54,884 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:53:59,358 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:53:59,627 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:54:01,280 - tests.utils - INFO - Loading cookies
+2024-08-08 10:54:02,811 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:54:07,812 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:55:14,281 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:55:14,281 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:56:00,351 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:56:00,351 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:56:00,351 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:56:04,861 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:56:05,128 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:56:06,756 - tests.utils - INFO - Loading cookies
+2024-08-08 10:56:08,237 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:56:13,237 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:57:20,812 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:57:20,812 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 10:58:38,869 - test_create_playlist - INFO - --------------------------
+2024-08-08 10:58:38,869 - test_create_playlist - INFO - Loading configuration
+2024-08-08 10:58:38,869 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 10:58:43,288 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 10:58:43,555 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 10:58:45,347 - tests.utils - INFO - Loading cookies
+2024-08-08 10:58:46,867 - tests.utils - INFO - Cookies loaded
+2024-08-08 10:58:51,868 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-08 10:59:58,248 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 10:59:58,248 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:27:38,950 - test_search - INFO - --------------------------
+2024-08-08 12:27:38,951 - test_search - INFO - Loading configuration
+2024-08-08 12:27:38,951 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:27:44,048 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:27:44,312 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:27:46,624 - test_search - INFO - Browser opened
+2024-08-08 12:27:46,624 - tests.utils - INFO - Loading cookies
+2024-08-08 12:27:48,362 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:27:53,363 - test_search - INFO - Cookies loaded
+2024-08-08 12:28:04,330 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:28:04,331 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:28:07,449 - test_search - INFO - --------------------------
+2024-08-08 12:28:07,449 - test_search - INFO - Loading configuration
+2024-08-08 12:28:07,449 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:28:11,895 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:28:12,154 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:28:14,196 - test_search - INFO - Browser opened
+2024-08-08 12:28:14,197 - tests.utils - INFO - Loading cookies
+2024-08-08 12:28:15,788 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:28:20,789 - test_search - INFO - Cookies loaded
+2024-08-08 12:28:24,472 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:28:24,472 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:35:33,388 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:35:33,388 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:35:33,389 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:35:37,806 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:35:38,069 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:35:40,140 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:35:40,141 - tests.utils - INFO - Loading cookies
+2024-08-08 12:35:41,793 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:35:46,794 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:35:47,645 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:35:47,645 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:36:18,981 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:36:18,981 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:36:18,982 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:36:23,448 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:36:23,712 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:36:25,524 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:36:25,524 - tests.utils - INFO - Loading cookies
+2024-08-08 12:36:27,027 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:36:32,027 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:36:32,876 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:36:32,876 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:36:47,055 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:36:47,055 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:36:47,056 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:36:51,569 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:36:51,846 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:36:53,863 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:36:53,863 - tests.utils - INFO - Loading cookies
+2024-08-08 12:36:56,956 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:37:01,958 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:37:40,094 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:37:40,094 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:39:33,421 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:39:33,422 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:39:33,423 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:39:37,898 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:39:38,161 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:39:40,016 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:39:40,016 - tests.utils - INFO - Loading cookies
+2024-08-08 12:39:41,695 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:39:46,696 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:40:01,978 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:40:01,978 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:40:23,578 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:40:23,578 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:40:23,578 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:40:27,989 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:40:28,254 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:40:30,104 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:40:30,104 - tests.utils - INFO - Loading cookies
+2024-08-08 12:40:31,594 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:40:36,596 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:40:37,164 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:40:37,164 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:41:29,772 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:41:29,772 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:41:29,772 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:41:34,196 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:41:34,452 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:41:36,264 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:41:36,265 - tests.utils - INFO - Loading cookies
+2024-08-08 12:41:37,742 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:41:42,743 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:41:43,569 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:41:43,569 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:41:55,178 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:41:55,178 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:41:55,179 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:41:59,626 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:41:59,890 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:42:01,650 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:42:01,650 - tests.utils - INFO - Loading cookies
+2024-08-08 12:42:03,289 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:42:08,290 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:42:25,460 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:42:25,460 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:42:36,171 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:42:36,171 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:42:36,171 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:42:40,562 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:42:40,842 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:42:42,847 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:42:42,847 - tests.utils - INFO - Loading cookies
+2024-08-08 12:42:44,512 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:42:49,513 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:42:50,365 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:42:50,365 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:44:22,291 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:44:22,291 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:44:22,291 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:44:26,701 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:44:26,960 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:44:28,632 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:44:28,632 - tests.utils - INFO - Loading cookies
+2024-08-08 12:44:30,280 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:44:35,280 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:44:36,135 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:44:36,135 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:45:59,252 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:45:59,253 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:45:59,253 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:46:03,649 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:46:03,930 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:46:06,531 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:46:06,532 - tests.utils - INFO - Loading cookies
+2024-08-08 12:46:08,093 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:46:13,093 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:46:14,236 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:46:14,236 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:46:31,317 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:46:31,317 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:46:31,317 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:46:35,705 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:46:35,982 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:46:38,070 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:46:38,070 - tests.utils - INFO - Loading cookies
+2024-08-08 12:46:39,528 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:46:44,529 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:46:55,676 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:46:55,676 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:47:09,209 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:47:09,209 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:47:09,210 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:47:13,623 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:47:13,908 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:47:15,800 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:47:15,800 - tests.utils - INFO - Loading cookies
+2024-08-08 12:47:17,387 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:47:22,388 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:47:33,511 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:47:33,511 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:47:43,965 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:47:43,965 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:47:43,965 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:47:48,385 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:47:48,643 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:47:50,524 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:47:50,525 - tests.utils - INFO - Loading cookies
+2024-08-08 12:47:51,968 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:47:56,969 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:48:08,645 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:48:08,645 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:49:37,395 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:49:37,395 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:49:37,396 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:49:41,798 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:49:42,068 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:49:44,208 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:49:44,208 - tests.utils - INFO - Loading cookies
+2024-08-08 12:49:45,733 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:49:50,734 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:50:01,976 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:50:01,976 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:51:22,033 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:51:22,033 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:51:22,033 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:51:26,466 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:51:26,725 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:51:28,676 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:51:28,677 - tests.utils - INFO - Loading cookies
+2024-08-08 12:51:30,177 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:51:35,178 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:51:46,482 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:51:46,482 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:55:45,098 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:55:45,098 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:55:45,098 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:55:49,524 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:55:49,785 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:55:51,638 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:55:51,638 - tests.utils - INFO - Loading cookies
+2024-08-08 12:55:53,226 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:55:58,227 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:56:19,100 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:56:19,100 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:56:58,308 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:56:58,308 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:56:58,308 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:57:02,699 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:57:02,981 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:57:04,957 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:57:04,957 - tests.utils - INFO - Loading cookies
+2024-08-08 12:57:06,745 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:57:11,746 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 12:57:32,653 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 12:57:32,653 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 12:57:46,590 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 12:57:46,590 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 12:57:46,591 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 12:57:50,973 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 12:57:51,239 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 12:57:53,092 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 12:57:53,093 - tests.utils - INFO - Loading cookies
+2024-08-08 12:57:54,758 - tests.utils - INFO - Cookies loaded
+2024-08-08 12:57:59,759 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 13:00:05,235 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 13:00:05,236 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 13:00:05,236 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 13:00:09,663 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 13:00:09,924 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 13:00:11,786 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 13:00:11,786 - tests.utils - INFO - Loading cookies
+2024-08-08 13:00:13,251 - tests.utils - INFO - Cookies loaded
+2024-08-08 13:00:18,251 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 13:00:19,444 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 13:00:19,445 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 13:00:31,587 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 13:00:31,587 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 13:00:31,587 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 13:00:35,996 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 13:00:36,263 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 13:00:38,344 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 13:00:38,345 - tests.utils - INFO - Loading cookies
+2024-08-08 13:00:42,652 - tests.utils - INFO - Cookies loaded
+2024-08-08 13:00:47,652 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 13:00:53,878 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 13:00:53,878 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 13:01:05,081 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 13:01:05,081 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 13:01:05,081 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 13:01:09,568 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 13:01:09,833 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 13:01:11,672 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 13:01:11,672 - tests.utils - INFO - Loading cookies
+2024-08-08 13:01:13,244 - tests.utils - INFO - Cookies loaded
+2024-08-08 13:01:18,245 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 13:01:25,092 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 13:01:25,092 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 13:01:51,580 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 13:01:51,580 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 13:01:51,580 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 13:01:56,012 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 13:01:56,272 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 13:01:57,992 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 13:01:57,992 - tests.utils - INFO - Loading cookies
+2024-08-08 13:02:01,154 - tests.utils - INFO - Cookies loaded
+2024-08-08 13:02:06,154 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 13:02:13,011 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 13:02:13,011 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 13:02:43,940 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 13:02:43,940 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 13:02:43,940 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 13:02:48,371 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 13:02:48,640 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 13:02:50,621 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 13:02:50,621 - tests.utils - INFO - Loading cookies
+2024-08-08 13:02:52,307 - tests.utils - INFO - Cookies loaded
+2024-08-08 13:02:57,308 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 13:03:11,006 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 13:03:11,006 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:47:01,635 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:47:01,635 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:47:01,635 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:47:06,421 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:47:06,711 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:47:08,822 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:47:08,822 - tests.utils - INFO - Loading cookies
+2024-08-08 19:47:10,504 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:47:15,505 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:47:27,362 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:47:27,362 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:48:19,178 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:48:19,178 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:48:19,178 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:48:23,657 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:48:23,922 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:48:25,714 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:48:25,715 - tests.utils - INFO - Loading cookies
+2024-08-08 19:48:27,301 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:48:32,302 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:48:44,206 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:48:44,206 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:49:21,365 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:49:21,365 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:49:21,366 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:49:25,816 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:49:26,076 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:49:27,906 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:49:27,906 - tests.utils - INFO - Loading cookies
+2024-08-08 19:49:29,518 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:49:34,520 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:49:48,347 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:49:48,347 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:51:54,320 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:51:54,320 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:51:54,320 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:51:58,822 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:51:59,085 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:52:01,694 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:52:01,695 - tests.utils - INFO - Loading cookies
+2024-08-08 19:52:03,833 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:52:08,833 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:52:22,008 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:52:22,008 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:53:04,038 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:53:04,038 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:53:04,038 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:53:08,639 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:53:08,907 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:53:11,031 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:53:11,033 - tests.utils - INFO - Loading cookies
+2024-08-08 19:53:13,143 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:53:18,143 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:53:29,980 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:53:29,980 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:53:46,495 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:53:46,495 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:53:46,496 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:53:51,047 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:53:51,314 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:53:53,316 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:53:53,316 - tests.utils - INFO - Loading cookies
+2024-08-08 19:53:55,483 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:54:00,485 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:54:12,313 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:54:12,314 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:54:47,368 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:54:47,369 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:54:47,369 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:54:51,922 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:54:52,192 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:54:54,210 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:54:54,210 - tests.utils - INFO - Loading cookies
+2024-08-08 19:54:58,378 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:55:03,378 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:55:16,257 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:55:16,257 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:56:07,862 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:56:07,863 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:56:07,863 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:56:12,260 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:56:12,552 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:56:14,546 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:56:14,546 - tests.utils - INFO - Loading cookies
+2024-08-08 19:56:16,308 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:56:21,309 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:56:33,393 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:56:33,393 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:57:55,997 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:57:55,998 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:57:55,998 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:58:00,398 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:58:00,685 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:58:02,482 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:58:02,483 - tests.utils - INFO - Loading cookies
+2024-08-08 19:58:04,224 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:58:09,224 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:58:21,697 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:58:21,697 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 19:58:43,794 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 19:58:43,795 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 19:58:43,795 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 19:58:48,201 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 19:58:48,467 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 19:58:50,528 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 19:58:50,529 - tests.utils - INFO - Loading cookies
+2024-08-08 19:58:52,340 - tests.utils - INFO - Cookies loaded
+2024-08-08 19:58:57,341 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 19:59:11,733 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 19:59:11,733 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 20:01:21,296 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 20:01:21,296 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 20:01:21,296 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 20:01:25,754 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 20:01:26,019 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 20:01:28,011 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 20:01:28,011 - tests.utils - INFO - Loading cookies
+2024-08-08 20:01:29,599 - tests.utils - INFO - Cookies loaded
+2024-08-08 20:01:34,600 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 20:01:48,879 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 20:01:48,879 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 20:02:15,427 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 20:02:15,427 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 20:02:15,428 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 20:02:19,868 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 20:02:20,136 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 20:02:22,063 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 20:02:22,063 - tests.utils - INFO - Loading cookies
+2024-08-08 20:02:23,852 - tests.utils - INFO - Cookies loaded
+2024-08-08 20:02:28,853 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 20:02:42,483 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 20:02:42,483 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 20:05:42,173 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 20:05:42,173 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 20:05:42,174 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 20:05:46,565 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 20:05:46,844 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 20:05:48,787 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 20:05:48,787 - tests.utils - INFO - Loading cookies
+2024-08-08 20:05:50,916 - tests.utils - INFO - Cookies loaded
+2024-08-08 20:05:55,916 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 20:06:08,890 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 20:06:08,890 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-08 20:08:32,733 - test_rearrange_playlist - INFO - --------------------------
+2024-08-08 20:08:32,733 - test_rearrange_playlist - INFO - Loading configuration
+2024-08-08 20:08:32,733 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-08 20:08:37,135 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-08 20:08:37,400 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-08 20:08:39,359 - test_rearrange_playlist - INFO - Browser opened
+2024-08-08 20:08:39,359 - tests.utils - INFO - Loading cookies
+2024-08-08 20:08:41,007 - tests.utils - INFO - Cookies loaded
+2024-08-08 20:08:46,008 - test_rearrange_playlist - INFO - Cookies loaded
+2024-08-08 20:08:59,051 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-08 20:08:59,051 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:08:34,151 - test_add_track_to_liked_list - INFO - --------------------------
+2024-08-09 19:08:34,151 - test_add_track_to_liked_list - INFO - Loading configuration
+2024-08-09 19:08:34,151 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:08:39,052 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:08:39,325 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:08:41,877 - test_add_track_to_liked_list - INFO - Browser opened
+2024-08-09 19:08:41,878 - tests.utils - INFO - Loading cookies
+2024-08-09 19:08:43,871 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:08:48,871 - test_add_track_to_liked_list - INFO - Cookies loaded
+2024-08-09 19:08:52,080 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:08:52,080 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:09:10,123 - test_add_track_to_liked_list - INFO - --------------------------
+2024-08-09 19:09:10,124 - test_add_track_to_liked_list - INFO - Loading configuration
+2024-08-09 19:09:10,124 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:09:14,611 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:09:14,880 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:09:16,667 - test_add_track_to_liked_list - INFO - Browser opened
+2024-08-09 19:09:16,668 - tests.utils - INFO - Loading cookies
+2024-08-09 19:09:18,272 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:09:23,274 - test_add_track_to_liked_list - INFO - Cookies loaded
+2024-08-09 19:09:27,480 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:09:27,480 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:12:24,762 - test_add_track_to_liked_list - INFO - --------------------------
+2024-08-09 19:12:24,762 - test_add_track_to_liked_list - INFO - Loading configuration
+2024-08-09 19:12:24,763 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:12:29,153 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:12:29,439 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:12:31,337 - test_add_track_to_liked_list - INFO - Browser opened
+2024-08-09 19:12:31,337 - tests.utils - INFO - Loading cookies
+2024-08-09 19:12:33,983 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:12:38,984 - test_add_track_to_liked_list - INFO - Cookies loaded
+2024-08-09 19:12:43,171 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:12:43,171 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:14:24,407 - test_add_track_to_liked_list - INFO - --------------------------
+2024-08-09 19:14:24,407 - test_add_track_to_liked_list - INFO - Loading configuration
+2024-08-09 19:14:24,408 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:14:28,899 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:14:29,154 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:14:31,750 - test_add_track_to_liked_list - INFO - Browser opened
+2024-08-09 19:14:31,750 - tests.utils - INFO - Loading cookies
+2024-08-09 19:14:33,801 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:14:38,802 - test_add_track_to_liked_list - INFO - Cookies loaded
+2024-08-09 19:14:43,101 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:14:43,101 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:15:03,997 - test_add_track_to_liked_list - INFO - --------------------------
+2024-08-09 19:15:03,997 - test_add_track_to_liked_list - INFO - Loading configuration
+2024-08-09 19:15:03,997 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:15:08,369 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:15:08,638 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:15:10,434 - test_add_track_to_liked_list - INFO - Browser opened
+2024-08-09 19:15:10,435 - tests.utils - INFO - Loading cookies
+2024-08-09 19:15:12,871 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:15:17,871 - test_add_track_to_liked_list - INFO - Cookies loaded
+2024-08-09 19:15:21,802 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:15:21,802 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:19:42,102 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 19:19:42,102 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 19:19:42,102 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:19:46,532 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:19:46,794 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:19:48,748 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 19:19:48,749 - tests.utils - INFO - Loading cookies
+2024-08-09 19:19:50,371 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:19:55,372 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 19:20:06,281 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:20:06,281 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:20:45,718 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 19:20:45,718 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 19:20:45,718 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:20:50,192 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:20:50,459 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:20:52,568 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 19:20:52,568 - tests.utils - INFO - Loading cookies
+2024-08-09 19:20:54,020 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:20:59,021 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 19:21:10,617 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:21:10,617 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:49:03,730 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 19:49:03,730 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 19:49:03,731 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:49:08,127 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:49:08,394 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:49:10,203 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 19:49:10,203 - tests.utils - INFO - Loading cookies
+2024-08-09 19:49:11,738 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:49:16,739 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 19:49:26,558 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:49:26,558 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:50:55,108 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 19:50:55,108 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 19:50:55,108 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:50:59,516 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:50:59,790 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:51:02,813 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 19:51:02,813 - tests.utils - INFO - Loading cookies
+2024-08-09 19:51:04,365 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:51:09,366 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 19:51:12,392 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:51:12,393 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:53:39,330 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 19:53:39,330 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 19:53:39,330 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:53:43,865 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:53:44,121 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:53:45,759 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 19:53:45,760 - tests.utils - INFO - Loading cookies
+2024-08-09 19:53:49,342 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:53:54,342 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 19:53:57,412 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:53:57,412 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:57:14,679 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 19:57:14,680 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 19:57:14,680 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:57:19,097 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:57:19,366 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:57:21,160 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 19:57:21,160 - tests.utils - INFO - Loading cookies
+2024-08-09 19:57:22,713 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:57:27,714 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 19:57:34,267 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:57:34,267 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 19:58:53,252 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 19:58:53,252 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 19:58:53,253 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 19:58:57,719 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 19:58:57,989 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 19:59:00,126 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 19:59:00,126 - tests.utils - INFO - Loading cookies
+2024-08-09 19:59:01,649 - tests.utils - INFO - Cookies loaded
+2024-08-09 19:59:06,650 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 19:59:13,670 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 19:59:13,670 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:12:20,673 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:12:20,673 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:12:20,674 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:12:25,572 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:12:25,842 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:12:28,400 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:12:28,400 - tests.utils - INFO - Loading cookies
+2024-08-09 20:12:30,003 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:12:35,004 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:12:41,351 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:12:41,352 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:15:20,868 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:15:20,868 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:15:20,869 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:15:25,347 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:15:25,609 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:15:27,370 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:15:27,370 - tests.utils - INFO - Loading cookies
+2024-08-09 20:15:28,842 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:15:33,842 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:15:40,782 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:15:40,782 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:15:58,353 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:15:58,353 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:15:58,353 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:16:02,803 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:16:03,062 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:16:04,799 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:16:04,799 - tests.utils - INFO - Loading cookies
+2024-08-09 20:16:06,299 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:16:11,300 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:16:17,642 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:16:17,642 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:16:30,027 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:16:30,027 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:16:30,027 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:16:34,465 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:16:34,727 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:16:36,964 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:16:36,964 - tests.utils - INFO - Loading cookies
+2024-08-09 20:16:38,485 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:16:43,486 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:16:56,844 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:16:56,844 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:17:16,674 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:17:16,675 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:17:16,675 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:17:21,131 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:17:21,387 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:17:23,249 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:17:23,249 - tests.utils - INFO - Loading cookies
+2024-08-09 20:17:24,726 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:17:29,727 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:17:51,754 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:17:51,754 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:18:30,572 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:18:30,572 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:18:30,572 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:18:34,953 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:18:35,240 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:18:36,790 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:18:36,790 - tests.utils - INFO - Loading cookies
+2024-08-09 20:18:38,708 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:18:43,709 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:19:05,574 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:19:05,574 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:22:46,789 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:22:46,789 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:22:46,789 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:22:51,276 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:22:51,543 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:22:53,311 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:22:53,311 - tests.utils - INFO - Loading cookies
+2024-08-09 20:22:54,801 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:22:59,802 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:23:11,431 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:23:11,431 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:24:19,011 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:24:19,011 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:24:19,011 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:24:23,411 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:24:23,680 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:24:25,489 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:24:25,489 - tests.utils - INFO - Loading cookies
+2024-08-09 20:24:27,085 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:24:32,085 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:24:43,635 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:24:43,635 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:25:13,510 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:25:13,510 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:25:13,511 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:25:17,928 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:25:18,197 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:25:20,142 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:25:20,142 - tests.utils - INFO - Loading cookies
+2024-08-09 20:25:21,773 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:25:26,774 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:25:38,377 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:25:38,377 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:29:48,499 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:29:48,499 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:29:48,499 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:29:52,925 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:29:53,213 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:29:55,108 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:29:55,108 - tests.utils - INFO - Loading cookies
+2024-08-09 20:29:56,702 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:30:01,704 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:30:09,304 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:30:09,304 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:32:58,494 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:32:58,495 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:32:58,495 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:33:02,900 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:33:03,168 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:33:05,397 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:33:05,397 - tests.utils - INFO - Loading cookies
+2024-08-09 20:33:06,875 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:33:11,875 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:33:20,028 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:33:20,029 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:38:03,082 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:38:03,082 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:38:03,082 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:38:07,527 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:38:07,790 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:38:09,750 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:38:09,750 - tests.utils - INFO - Loading cookies
+2024-08-09 20:38:11,261 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:38:16,261 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:38:33,025 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:38:33,025 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:39:13,883 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:39:13,883 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:39:13,883 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:39:18,359 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:39:18,615 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:39:20,735 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:39:20,735 - tests.utils - INFO - Loading cookies
+2024-08-09 20:39:22,297 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:39:27,298 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:39:44,164 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:39:44,164 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:40:31,274 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:40:31,274 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:40:31,275 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:40:35,828 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:40:36,117 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:40:37,885 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:40:37,886 - tests.utils - INFO - Loading cookies
+2024-08-09 20:40:39,454 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:40:44,455 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:42:12,791 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:42:12,792 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:42:12,792 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:42:17,284 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:42:17,552 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:42:19,299 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:42:19,299 - tests.utils - INFO - Loading cookies
+2024-08-09 20:42:20,790 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:42:25,791 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:42:42,537 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:42:42,537 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:44:01,929 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:44:01,929 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:44:01,930 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:44:06,417 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:44:06,687 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:44:08,411 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:44:08,411 - tests.utils - INFO - Loading cookies
+2024-08-09 20:44:10,179 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:44:15,180 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:44:31,771 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:44:31,772 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:45:29,821 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:45:29,822 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:45:29,822 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:45:34,249 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:45:34,521 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:45:36,305 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:45:36,306 - tests.utils - INFO - Loading cookies
+2024-08-09 20:45:37,807 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:45:42,808 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:45:49,799 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:45:49,799 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:48:05,300 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:48:05,300 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:48:05,300 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:48:09,716 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:48:09,974 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:48:11,765 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:48:11,765 - tests.utils - INFO - Loading cookies
+2024-08-09 20:48:13,296 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:48:18,297 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:48:34,969 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:48:34,969 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:50:40,695 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:50:40,695 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:50:40,695 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:50:45,152 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:50:45,412 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:50:47,166 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:50:47,166 - tests.utils - INFO - Loading cookies
+2024-08-09 20:50:49,064 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:50:54,065 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:51:10,750 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:51:10,750 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:53:32,680 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:53:32,680 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:53:32,680 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:53:37,116 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:53:37,398 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:53:39,578 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:53:39,578 - tests.utils - INFO - Loading cookies
+2024-08-09 20:53:41,239 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:53:46,239 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:54:03,043 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:54:03,043 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:54:27,556 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:54:27,556 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:54:27,556 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:54:32,165 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:54:32,432 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:54:34,147 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:54:34,148 - tests.utils - INFO - Loading cookies
+2024-08-09 20:54:36,004 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:54:41,005 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:54:58,097 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:54:58,097 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:56:25,334 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:56:25,334 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:56:25,335 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:56:29,730 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:56:30,024 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:56:31,820 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:56:31,820 - tests.utils - INFO - Loading cookies
+2024-08-09 20:56:33,576 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:56:38,577 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:56:55,438 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:56:55,438 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 20:58:15,991 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:58:15,991 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:58:15,991 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:58:20,388 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:58:20,658 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:58:22,535 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:58:22,535 - tests.utils - INFO - Loading cookies
+2024-08-09 20:58:24,024 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:58:29,024 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:58:59,201 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 20:58:59,202 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 20:58:59,202 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 20:59:03,673 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 20:59:03,944 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 20:59:05,499 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 20:59:05,499 - tests.utils - INFO - Loading cookies
+2024-08-09 20:59:07,233 - tests.utils - INFO - Cookies loaded
+2024-08-09 20:59:12,233 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 20:59:29,071 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 20:59:29,071 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:00:37,640 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:00:37,640 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:00:37,640 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:00:42,061 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:00:42,323 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:00:44,093 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:00:44,093 - tests.utils - INFO - Loading cookies
+2024-08-09 21:00:45,554 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:00:50,555 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:01:07,283 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:01:07,283 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:02:30,021 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:02:30,021 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:02:30,021 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:02:34,457 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:02:34,726 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:02:36,532 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:02:36,533 - tests.utils - INFO - Loading cookies
+2024-08-09 21:02:38,723 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:02:43,725 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:03:00,486 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:03:00,486 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:03:34,453 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:03:34,453 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:03:34,454 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:03:38,859 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:03:39,133 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:03:40,879 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:03:40,879 - tests.utils - INFO - Loading cookies
+2024-08-09 21:03:42,292 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:03:47,293 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:03:54,683 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:03:54,683 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:05:19,184 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:05:19,185 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:05:19,185 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:05:23,698 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:05:23,961 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:05:25,621 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:05:25,622 - tests.utils - INFO - Loading cookies
+2024-08-09 21:05:27,113 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:05:32,114 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:06:08,313 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:06:08,313 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:08:22,485 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:08:22,485 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:08:22,486 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:08:26,914 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:08:27,182 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:08:28,832 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:08:28,833 - tests.utils - INFO - Loading cookies
+2024-08-09 21:08:30,392 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:08:35,394 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:08:45,298 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:08:45,298 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:17:54,636 - test_player_progress_bar - INFO - --------------------------
+2024-08-09 21:17:54,636 - test_player_progress_bar - INFO - Loading configuration
+2024-08-09 21:17:54,636 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:17:59,602 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:17:59,889 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:18:01,903 - tests.utils - INFO - Loading cookies
+2024-08-09 21:18:03,424 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:18:15,255 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-09 21:18:20,401 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:18:20,401 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:19:59,161 - test_search - INFO - --------------------------
+2024-08-09 21:19:59,161 - test_search - INFO - Loading configuration
+2024-08-09 21:19:59,162 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:20:03,616 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:20:03,883 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:20:05,658 - tests.utils - INFO - Loading cookies
+2024-08-09 21:20:07,983 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:20:16,916 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:20:16,916 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:21:07,874 - test_search - INFO - --------------------------
+2024-08-09 21:21:07,874 - test_search - INFO - Loading configuration
+2024-08-09 21:21:07,874 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:21:12,352 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:21:12,621 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:21:14,533 - tests.utils - INFO - Loading cookies
+2024-08-09 21:21:15,916 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:21:22,895 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:21:22,896 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:22:05,329 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:22:05,329 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:22:05,330 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:22:09,805 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:22:10,071 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:22:11,807 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:22:11,807 - tests.utils - INFO - Loading cookies
+2024-08-09 21:22:13,434 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:22:18,435 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:22:28,746 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:22:28,746 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:22:57,187 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:22:57,187 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:22:57,187 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:23:01,622 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:23:01,892 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:23:03,808 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:23:03,808 - tests.utils - INFO - Loading cookies
+2024-08-09 21:23:05,263 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:23:10,264 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:27:43,726 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:27:43,726 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:27:43,727 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:27:48,156 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:27:48,433 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:27:51,819 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:27:51,819 - tests.utils - INFO - Loading cookies
+2024-08-09 21:27:53,382 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:27:58,382 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:28:08,690 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:28:08,691 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:35:03,430 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:35:03,431 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:35:03,431 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:35:07,830 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:35:08,102 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:35:09,855 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:35:09,855 - tests.utils - INFO - Loading cookies
+2024-08-09 21:35:11,399 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:35:16,400 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:35:27,404 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:35:27,404 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:42:00,502 - test_search - INFO - --------------------------
+2024-08-09 21:42:00,502 - test_search - INFO - Loading configuration
+2024-08-09 21:42:00,502 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:42:04,979 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:42:05,241 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:42:07,266 - tests.utils - INFO - Loading cookies
+2024-08-09 21:42:08,840 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:42:13,840 - test_search - INFO - Starting test: Search for a specific song
+2024-08-09 21:42:17,798 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:42:17,798 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:42:37,630 - test_romove_track_from_playlist - INFO - --------------------------
+2024-08-09 21:42:37,631 - test_romove_track_from_playlist - INFO - Loading configuration
+2024-08-09 21:42:37,631 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:42:42,060 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:42:42,324 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:42:44,359 - test_romove_track_from_playlist - INFO - Browser opened
+2024-08-09 21:42:44,359 - tests.utils - INFO - Loading cookies
+2024-08-09 21:42:45,929 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:42:50,930 - test_romove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 21:42:51,089 - test_romove_track_from_playlist - INFO - Starting test: Remove track from playlist
+2024-08-09 21:43:00,420 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:43:00,420 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 21:48:19,134 - test_player_progress_bar - INFO - --------------------------
+2024-08-09 21:48:19,134 - test_player_progress_bar - INFO - Loading configuration
+2024-08-09 21:48:19,134 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 21:48:23,572 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 21:48:23,845 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 21:48:25,688 - tests.utils - INFO - Loading cookies
+2024-08-09 21:48:27,178 - tests.utils - INFO - Cookies loaded
+2024-08-09 21:48:39,514 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-09 21:48:42,579 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 21:48:42,579 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:05:51,708 - test_remove_track_from_playlist - INFO - --------------------------
+2024-08-09 22:05:51,708 - test_remove_track_from_playlist - INFO - Loading configuration
+2024-08-09 22:05:51,709 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:05:56,137 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:05:56,423 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:05:58,150 - test_remove_track_from_playlist - INFO - Browser opened
+2024-08-09 22:05:58,150 - tests.utils - INFO - Loading cookies
+2024-08-09 22:05:59,871 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:06:04,877 - test_remove_track_from_playlist - INFO - Cookies loaded
+2024-08-09 22:06:05,047 - test_remove_track_from_playlist - INFO - Starting test: Remove track from playlist
+2024-08-09 22:06:14,347 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:06:14,347 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:16:04,998 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:16:04,998 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:16:04,999 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:16:09,472 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:16:09,732 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:16:11,514 - tests.utils - INFO - Loading cookies
+2024-08-09 22:16:13,043 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:16:18,044 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:16:37,922 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:16:37,922 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:16:37,923 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:16:42,328 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:16:42,594 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:16:44,402 - tests.utils - INFO - Loading cookies
+2024-08-09 22:16:46,014 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:16:51,015 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:19:40,269 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:19:40,269 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:19:40,270 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:19:45,095 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:19:45,367 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:19:49,996 - tests.utils - INFO - Loading cookies
+2024-08-09 22:19:51,487 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:19:56,488 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:27:11,397 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:27:11,397 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:27:11,397 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:27:15,933 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:27:16,198 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:27:18,604 - tests.utils - INFO - Loading cookies
+2024-08-09 22:27:20,172 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:27:25,174 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:27:48,516 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:27:48,516 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:28:29,045 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:28:29,045 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:28:29,046 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:28:33,622 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:28:33,896 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:28:35,648 - tests.utils - INFO - Loading cookies
+2024-08-09 22:28:37,296 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:28:42,297 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:28:52,341 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:28:52,341 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:29:23,648 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:29:23,648 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:29:23,648 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:29:28,112 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:29:28,375 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:29:30,179 - tests.utils - INFO - Loading cookies
+2024-08-09 22:29:31,636 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:29:36,637 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:29:40,477 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:29:40,477 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:30:09,662 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:30:09,662 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:30:09,662 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:30:14,074 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:30:14,340 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:30:16,641 - tests.utils - INFO - Loading cookies
+2024-08-09 22:30:18,124 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:30:23,125 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:30:32,023 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:30:32,023 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:32:24,200 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:32:24,201 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:32:24,201 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:32:28,621 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:32:28,891 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:32:30,590 - tests.utils - INFO - Loading cookies
+2024-08-09 22:32:32,137 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:32:37,138 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:32:47,994 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:32:47,995 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:33:10,400 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:33:10,400 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:33:10,401 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:33:14,831 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:33:15,099 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:33:16,945 - tests.utils - INFO - Loading cookies
+2024-08-09 22:33:18,441 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:33:23,442 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:33:32,639 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:33:32,639 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:37:42,591 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:37:42,591 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:37:42,591 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:37:47,055 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:37:47,321 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:37:49,188 - tests.utils - INFO - Loading cookies
+2024-08-09 22:37:50,686 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:37:55,686 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:38:04,750 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:38:04,750 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:43:16,768 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:43:16,768 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:43:16,768 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:43:21,258 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:43:21,523 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:43:23,494 - tests.utils - INFO - Loading cookies
+2024-08-09 22:43:26,355 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:43:31,356 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:43:40,161 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:43:40,161 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-09 22:51:20,673 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:51:20,673 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:51:20,673 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:51:25,109 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:51:25,380 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:51:28,112 - tests.utils - INFO - Loading cookies
+2024-08-09 22:51:28,112 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:51:39,558 - logic.ui.home_page - ERROR - Failed to click the add to playlist button: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1518:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+2024-08-09 22:53:01,404 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-09 22:53:01,404 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-09 22:53:01,404 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:53:05,898 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:53:06,166 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:53:08,191 - tests.utils - INFO - Loading cookies
+2024-08-09 22:53:08,191 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-09 22:53:14,941 - logic.ui.home_page - ERROR - Failed to click the add to playlist button: Message: Failed to decode response from marionette
+
+2024-08-09 22:53:59,602 - test_player_progress_bar - INFO - --------------------------
+2024-08-09 22:53:59,602 - test_player_progress_bar - INFO - Loading configuration
+2024-08-09 22:53:59,602 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-09 22:54:04,158 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-09 22:54:04,427 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-09 22:54:06,311 - tests.utils - INFO - Loading cookies
+2024-08-09 22:54:08,004 - tests.utils - INFO - Cookies loaded
+2024-08-09 22:54:20,843 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-09 22:54:23,830 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-09 22:54:23,830 - infra.ui.browser_wrapper - INFO - --------------------------

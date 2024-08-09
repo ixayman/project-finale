@@ -26,6 +26,7 @@ def refresh_access_token():
     # Update the stored access token
     secret['access_token'] = new_access_token
     SecretHandler.save_to_file(secret)
+    return new_access_token
 
 
 if __name__ == '__main__':

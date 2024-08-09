@@ -1,15 +1,15 @@
 import json
-from infra.config_provider import ConfigProvider
+import os
 
 
 class SecretHandler:
-    config = ConfigProvider.load_from_file()
+    secret_path = os.path.join(os.path.dirname(__file__), '../client_secret.json')
 
     @staticmethod
     def load_from_file():
         """Load JSON data from the secret file."""
         try:
-            with open(SecretHandler.config['client_secret_file'], 'r') as f:
+            with open(SecretHandler.secret_path, 'r') as f:
                 secret = json.load(f)
                 return secret
         except FileNotFoundError:
@@ -26,7 +26,7 @@ class SecretHandler:
     def save_to_file(data):
         """Save data to the secret file."""
         try:
-            with open(SecretHandler.config['client_secret_file'], 'w') as f:
+            with open(SecretHandler.secret_path, 'w') as f:
                 json.dump(data, f, indent=4)
                 print("Secret saved successfully!")
         except Exception as e:

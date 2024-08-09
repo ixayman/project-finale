@@ -1,16 +1,17 @@
 import logging
+import os
 
 
 class Logger:
     @staticmethod
     def setup_logger(name):
         # Create a logger
+        log_file_path = os.path.join(os.path.dirname(__file__), '../test_log.log')
         logger = logging.getLogger(name)
         logger.setLevel(logging.INFO)
 
         # Create handlers
-        file_handler = logging.FileHandler(
-            r'C:\Users\evoix\PycharmProjects\project-finale\test_log.log')  # Logs will be saved to test_log.log
+        file_handler = logging.FileHandler(log_file_path)  # Logs will be saved to test_log.log
         stream_handler = logging.StreamHandler()
 
         # Set level for handlers

@@ -1,5 +1,5 @@
 import pickle
-import time
+import os
 
 from infra.ui.browser_wrapper import BrowserWrapper
 from infra.config_provider import ConfigProvider
@@ -22,7 +22,8 @@ def save_login_cookies():
     login_page.login_flow(secret['username'], secret['password'])
     # Save cookies to file
     cookies = driver.get_cookies()
-    with open(config['cookies_file'], 'wb') as file:
+    cookies_path = os.path.join(os.path.dirname(__file__), '../../cookies')
+    with open(cookies_path, 'wb') as file:
         pickle.dump(cookies, file)
     driver.quit()
 

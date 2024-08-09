@@ -1,12 +1,14 @@
 import json
+import os
 
 
 class ConfigProvider:
 
     @staticmethod
     def load_from_file():
+        config_path = os.path.join(os.path.dirname(__file__), '../config.json')
         try:
-            with open(r'C:\Users\evoix\PycharmProjects\project-finale\config.json', 'r') as f:
+            with open(config_path, 'r') as f:
                 config = json.load(f)
                 return config
         except FileNotFoundError:

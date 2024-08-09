@@ -5,28 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72ba892e-89e0-4e2d-9ebe-f41f2317e117" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/logic/api/playback_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_player_progress_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_create_playlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_remove_track_from_playlist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/api/api_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/api/api_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/api/entity/spotify_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/api/entity/spotify_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/api/response_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/api/response_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/api/spotify_refresh_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/api/spotify_refresh_token.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/infra/config_provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/config_provider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/infra/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/logger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infra/test_log.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infra/ui/browser_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/ui/browser_wrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infra/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/secret_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/secret_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infra/ui/save_cookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/infra/ui/save_cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/api/playback_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/api/playback_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logic/api/playlist_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/api/playlist_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logic/entity/api_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/entity/api_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/api/user_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/api/user_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logic/entity/api_locators.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/logic/entity/ui_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/entity/ui_locators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logic/ui/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/logic/ui/home_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_log.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/add_item_to_liked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_add_track_to_liked_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_log.log" beforeDir="false" afterPath="$PROJECT_DIR$/test_log.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/entity/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/entity/test_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_add_item_to_playlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_add_track_to_playlist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_get_user_profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Profile_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_log.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_Profile_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Profile_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_add_track_to_liked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_add_track_to_liked_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_add_track_to_playlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_add_track_to_playlist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_player_progress_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_player_progress_bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_rearrange_playlist.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/utils.py" afterDir="false" />
     </list>
@@ -70,16 +76,24 @@
   "keyToString": {
     "Python tests.Python tests for test_Profile_info.TestProfileInfo.test_get_profile_info.executor": "Run",
     "Python tests.Python tests for test_add_item_to_playlist.TestAddItemToPlaylist.test_add_to_playlist.executor": "Run",
+    "Python tests.Python tests for test_add_track_to_liked_list.TestAddTrackToLikedList.test_add_track_to_liked_list.executor": "Run",
     "Python tests.Python tests for test_add_track_to_playlist.TestAddTrackToPlaylis.test_add_track_to_playlist.executor": "Run",
     "Python tests.Python tests for test_add_track_to_playlist.TestAddTrackToPlaylist.test_add_track_to_playlist.executor": "Run",
+    "Python tests.Python tests for test_create_playlist.TestAddTrackToPlaylist.test_create_custom_name_playlist.executor": "Run",
+    "Python tests.Python tests for test_create_playlist.TestAddTrackToPlaylist.test_create_playlist.executor": "Run",
     "Python tests.Python tests for test_get_user_profile.TestSpotifyAPI.test_user_profile.executor": "Run",
     "Python tests.Python tests for test_login.TestLogin.test_login_with_invalid_credentials.executor": "Run",
     "Python tests.Python tests for test_login.TestLogin.test_login_with_valid_credentials.executor": "Run",
+    "Python tests.Python tests for test_player_progress_bar.TestPlayerProgressBar.test_adjust_progress_bar.executor": "Run",
     "Python tests.Python tests for test_player_progress_bar.TestPlayerProgressBar.test_move_progress_bar.executor": "Run",
     "Python tests.Python tests for test_playlist.TestSearch.test_add_to_liked_list.executor": "Run",
     "Python tests.Python tests for test_rearrange_playlist.TestSearch.test_rearrange_playlist.executor": "Run",
+    "Python tests.Python tests for test_remove_track_from_playlist.TestRemoveTrackFromPlaylist.test_remove_track_from_playlist.executor": "Run",
+    "Python tests.Python tests for test_romove_track_from_playlist.TestRemoveTrackFromPlaylist.test_remove_track_from_playlist.executor": "Run",
     "Python tests.Python tests for test_search.TestSearch.executor": "Run",
     "Python tests.Python tests for test_search.TestSearch.test_search.executor": "Run",
+    "Python tests.Python tests for test_search.TestSearch.test_search_specific_song.executor": "Run",
+    "Python tests.Python tests in test_add_track_to_playlist.py.executor": "Run",
     "Python.main.executor": "Run",
     "Python.spotify_authentication.executor": "Run",
     "Python.spotify_refresh_authentication.executor": "Run",
@@ -88,8 +102,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/evoix/PycharmProjects/project-finale",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -100,7 +115,7 @@
       <recent name="C:\Users\evoix\PycharmProjects\5tech\project-finale\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_player_progress_bar.TestPlayerProgressBar.test_move_progress_bar">
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="project-finale" />
       <option name="ENV_FILES" value="" />
@@ -133,6 +148,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (project-finale)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -144,44 +160,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spotify_refresh_token" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="project-finale" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (project-finale)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/infra/api" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infra/api/spotify_refresh_token.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Profile_info.TestProfileInfo.test_get_profile_info" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="project-finale" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Profile_info.TestProfileInfo.test_get_profile_info&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_add_track_to_playlist.TestAddTrackToPlaylist.test_add_track_to_playlist" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -199,7 +177,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_player_progress_bar.TestPlayerProgressBar.test_move_progress_bar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_player_progress_bar.TestPlayerProgressBar.test_adjust_progress_bar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="project-finale" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,8 +188,38 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_player_progress_bar.TestPlayerProgressBar.test_move_progress_bar&quot;" />
+      <option name="_new_target" value="&quot;test_player_progress_bar.TestPlayerProgressBar.test_adjust_progress_bar&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_remove_track_from_playlist.TestRemoveTrackFromPlaylist.test_remove_track_from_playlist" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project-finale" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_remove_track_from_playlist.TestRemoveTrackFromPlaylist.test_remove_track_from_playlist&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_add_track_to_playlist.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="project-finale" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_add_track_to_playlist.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
@@ -234,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_player_progress_bar.TestPlayerProgressBar.test_move_progress_bar" />
-        <item itemvalue="Python.spotify_refresh_token" />
-        <item itemvalue="Python tests.Python tests for test_Profile_info.TestProfileInfo.test_get_profile_info" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Python tests in test_add_track_to_playlist.py" />
         <item itemvalue="Python tests.Python tests for test_add_track_to_playlist.TestAddTrackToPlaylist.test_add_track_to_playlist" />
+        <item itemvalue="Python tests.Python tests for test_remove_track_from_playlist.TestRemoveTrackFromPlaylist.test_remove_track_from_playlist" />
+        <item itemvalue="Python tests.Python tests for test_player_progress_bar.TestPlayerProgressBar.test_adjust_progress_bar" />
       </list>
     </recent_temporary>
   </component>

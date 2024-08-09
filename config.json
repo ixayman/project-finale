@@ -2,7 +2,5 @@
   "browser": "Firefox",
   "home_page": "https://open.spotify.com/",
   "login_page": "https://open.spotify.com/login",
-  "api-url": "https://api.spotify.com/v1/",
-  "client_secret_file": "C:\\Users\\evoix\\PycharmProjects\\project-finale\\client_secret.json",
-  "cookies_file": "C:\\Users\\evoix\\PycharmProjects\\project-finale\\cookies.pkl"
+  "api-url": "https://api.spotify.com/v1/"
 }

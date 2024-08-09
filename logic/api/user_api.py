@@ -12,4 +12,4 @@ class UserAPI:
 
     def get_user_info(self):
         return self.api.get_request(self.config['api-url'] + 'me',
-                                    headers={'Authorization': 'Bearer ' + self.secret['access_token']}).json()
+                                    headers={'Authorization': 'Bearer ' + self.secret['access_token']})

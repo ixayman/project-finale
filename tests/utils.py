@@ -1,6 +1,6 @@
 import pickle
 import time
-
+import os
 from infra.logger import Logger
 
 
@@ -9,7 +9,8 @@ def load_cookies(driver, config):
     logger.info("Loading cookies")
     try:
         # Load cookies from file
-        with open(config['cookies_file'], 'rb') as file:
+        cookies_path = os.path.join(os.path.dirname(__file__), "../cookies.pkl")
+        with open(cookies_path, 'rb') as file:
             cookies = pickle.load(file)
             for cookie in cookies:
                 driver.add_cookie(cookie)
@@ -24,30 +25,40 @@ def load_cookies(driver, config):
 
 def jira_aio_upload(token, cycle_id):
     import requests
+    import os
+    try:
+        # API endpoint
+        url = f'https://tcms.aiojiraapps.com/aio-tcms/api/v1/project/KAN/testcycle/{cycle_id}/import/results'
 
-    # API endpoint
-    url = f'https://tcms.aiojiraapps.com/aio-tcms/api/v1/project/KAN/testcycle/{cycle_id}/import/results'
+        # Your API credentials and headers
+        headers = {
+            'Authorization': 'AioAuth ' + token,
+            'accept': 'application/json;charset=utf-8'
+        }
+        query = {
+            'type': 'JUnit'
+        }
 
-    # Your API credentials and headers
-    headers = {
-        'Authorization': 'AioAuth ' + token,
-        'accept': 'application/json;charset=utf-8'
-    }
-    query = {
-        'type': 'JUnit'
-    }
-    files = {
-        'file': ('report.xml', open(r'C:\Users\evoix\PycharmProjects\project-finale\report.xml', 'rb'))
-    }
-    data = {
-        'updateDatasets': 'true',
-        'createNewRun': 'true',
-        'addCaseToCycle': 'true'
-    }
+        report_path = os.path.join(os.path.dirname(__file__), '../report.xml')
+        # Open the file in a context manager to ensure it's properly closed
+        with open(report_path, 'rb') as file:
+            files = {
+                'file': ('report.xml', file)
+            }
+            data = {
+                'updateDatasets': 'true',
+                'createNewRun': 'true',
+                'addCaseToCycle': 'true'
+            }
 
-    # Make the request
-    response = requests.post(url, headers=headers, params=query, files=files, data=data)
-    print(response.status_code, response.text)
+            # Make the request
+            response = requests.post(url, headers=headers, params=query, files=files, data=data)
 
+            # Raise an HTTPError if the response code is not successful
+            response.raise_for_status()
 
+            # Return the JSON response
+            return response.json()
 
+    except Exception as err:
+        print(f"An error occurred: {err}")

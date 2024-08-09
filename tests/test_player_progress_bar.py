@@ -1,4 +1,3 @@
-import time
 import unittest
 
 from infra.logger import Logger
@@ -8,17 +7,17 @@ from infra.utils import generate_random_float
 from logic.api.playback_api import PlaybackAPI
 from logic.ui.home_page import HomePage
 from tests.entity.test_data import SampleSong
-
 from tests.utils import load_cookies
 
 
 class TestPlayerProgressBar(unittest.TestCase):
 
     def setUp(self):
+        """Set up the test environment before each test case."""
         self.logger = Logger.setup_logger(__name__)
         try:
             self.config = ConfigProvider.load_from_file()
-            self.logger.info("-" * 26)  # Separator line at the start of each test run
+            self.logger.info("-" * 26)
             self.logger.info("Loading configuration")
             self.browser = BrowserWrapper()
             self.driver = self.browser.get_driver(self.config, "home_page")
@@ -36,21 +35,27 @@ class TestPlayerProgressBar(unittest.TestCase):
             raise
 
     def tearDown(self):
+        """Clean up the test environment after each test case."""
         self.browser.close_driver()
         self.playback_api = None
 
     def test_adjust_progress_bar(self):
+        """Test adjusting the player's progress bar."""
         self.logger.info("Starting test: Move Progress Bar")
-        # arrange
+        # Arrange
         offset_percentage = generate_random_float(0, 1)
-        print(f"Offset percentage: {offset_percentage}")
         timestamp = SampleSong.duration.value * offset_percentage
-        # act
+
+        # Act
         self.home_page.move_progress_bar(offset_percentage)
         response = self.playback_api.get_currently_playing_track()
-        # assert
+
+        # Assert
         self.assertEqual(response.status_code, 200, f"Expected status code 200, got {response.status_code}")
-        print(response.json())
-        self.assertAlmostEqual(response.json()['progress_ms'], timestamp, delta=1000,
-                               msg=f"Expected progress within 1 second of {timestamp} ms,"
-                                   f" got {response.json()['progress_ms']} ms")
+        self.assertAlmostEqual(response.data['progress_ms'], timestamp, delta=1000,
+                               msg=f"Expected progress within 1 second of {timestamp} ms, "
+                                   f"got {response.data['progress_ms']} ms")
+
+
+if __name__ == '__main__':
+    unittest.main()
