@@ -2,5 +2,6 @@
   "browser": "Firefox",
   "home_page": "https://open.spotify.com/",
   "login_page": "https://open.spotify.com/login",
+  "liked_tracks_page": "https://open.spotify.com/collection/tracks",
   "api-url": "https://api.spotify.com/v1/"
 }

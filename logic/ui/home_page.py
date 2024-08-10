@@ -308,3 +308,31 @@ class HomePage(BasePage):
         except Exception as e:
             self.logger.error("Failed to move progress bar: %s", str(e))
             raise
+
+    def double_click_liked_list_track(self):
+        """Double-click the liked list track."""
+        try:
+            time.sleep(5)
+            liked_list_track = WebDriverWait(self._driver, 10).until(
+                ec.element_to_be_clickable((By.XPATH, HomePageLocators.LIKED_LIST_TRACKS.value))
+            )
+            ActionChains(self._driver).double_click(liked_list_track).perform()
+            time.sleep(5)
+        except Exception as e:
+            self.logger.error("Failed to double click liked list track: %s", str(e))
+            raise
+
+    def click_liked_list_play_button(self):
+        """Click the liked list play button."""
+        try:
+            liked_list_play_button = WebDriverWait(self._driver, 10).until(
+                ec.element_to_be_clickable((By.XPATH, HomePageLocators.LIKED_LIST_PLAY_BUTTON.value))
+            )
+            ActionChains(self._driver).click(liked_list_play_button).perform()
+
+            WebDriverWait(self._driver, 10).until(
+                ec.invisibility_of_element_located((By.XPATH, HomePageLocators.LIKED_LIST_PLAY_BUTTON.value))
+            )
+        except Exception as e:
+            self.logger.error("Failed to click liked list play button: %s", str(e))
+            raise

@@ -31,3 +31,8 @@ class HomePageLocators(Enum):
     TEST_SONG_IN_LIBRARY_INDICATOR = f'//div[@data-testid="playlist-tracklist"]//a[contains(@href, {SampleSong.id.value})]'
 
     PROGRESS_BAR = '//div[@data-testid="progress-bar-background"]/div[1]'
+
+    LIKED_LIST_TRACKS = '//div[@role="row"][@aria-selected]//div[@data-testid="tracklist-row"]'
+    LIKED_LIST_PLAY_BUTTON = '//button[@aria-label="Play Liked Songs"][@data-encore-id="buttonPrimary"]'
+    LIKED_LIST_PAUSE_BUTTON = '//button[@aria-label="Pause Liked Songs"][@data-encore-id="buttonPrimary"]'
+

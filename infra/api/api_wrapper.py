@@ -38,10 +38,13 @@ class APIWrapper:
                     auth=auth,
                     json=json
                 )
-
+            try:
+                data = response.json()
+            except ValueError:
+                data = None
             # Raise an error for HTTP error responses
             response.raise_for_status()
-            return ResponseWrapper(ok=response.ok, status=response.status_code, data=response.json())
+            return ResponseWrapper(ok=response.ok, status=response.status_code, data=data)
         except requests.exceptions.HTTPError as e:
             print(f'HTTP error occurred: {e}')
             raise

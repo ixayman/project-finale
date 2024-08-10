@@ -34,7 +34,7 @@ class TestRemoveTrackFromPlaylist(unittest.TestCase):
         """Clean up the test environment after each test case."""
         try:
             self.playlist_api.remove_track_from_playlist(SamplePlaylist.id.value, SampleSong.id.value)
-
+            self.playlist_api = None
             self.browser.close_driver()
         except Exception as e:
             self.logger.error(f"Error in tearDown: {e}")

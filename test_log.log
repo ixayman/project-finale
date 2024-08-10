@@ -1791,3 +1791,671 @@ _onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
 2024-08-09 22:54:20,843 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
 2024-08-09 22:54:23,830 - infra.ui.browser_wrapper - INFO - browser closed
 2024-08-09 22:54:23,830 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 12:31:17,237 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:31:17,237 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:31:51,780 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:31:51,780 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:34:37,021 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:34:37,021 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:35:23,831 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:35:23,831 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:36:14,947 - test_Profile_info_api - INFO - --------------------------
+2024-08-10 12:36:14,947 - test_Profile_info_api - INFO - Loading configuration
+2024-08-10 12:36:14,947 - test_Profile_info_api - INFO - Starting test: Get profile information
+2024-08-10 12:36:43,273 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:36:43,273 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:37:34,139 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:37:34,139 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:37:45,842 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:37:45,843 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:38:47,037 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:38:47,038 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:42:57,472 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:42:57,472 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:44:25,207 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:44:25,207 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:44:40,511 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:44:40,511 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:44:57,227 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:44:57,227 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:45:08,734 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:45:08,734 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:46:13,987 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:46:13,987 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:46:23,616 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:46:23,618 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:47:53,928 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:47:53,929 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:48:05,016 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:48:05,017 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:48:10,413 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:48:10,413 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:48:39,277 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:48:39,277 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:49:23,523 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:49:23,523 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:49:32,624 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:49:32,624 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:51:02,145 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:51:02,145 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:51:33,855 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:51:33,855 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:51:53,975 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:51:53,975 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:52:59,483 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:52:59,483 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:53:08,574 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:53:08,574 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:53:19,736 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:53:19,736 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:53:27,387 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:53:27,387 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:53:33,399 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:53:33,399 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:57:08,408 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:57:08,408 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 12:58:00,469 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 12:58:00,469 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:00:51,777 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:00:51,777 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:02:05,753 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:02:05,754 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:07:09,430 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:07:09,430 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:21:33,402 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:21:33,402 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:21:33,403 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:21:38,006 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:21:38,291 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 13:21:40,154 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 13:21:40,154 - tests.utils - INFO - Loading cookies
+2024-08-10 13:21:41,771 - tests.utils - INFO - Cookies loaded
+2024-08-10 13:21:46,771 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 13:21:46,771 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:21:51,240 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:21:51,507 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/collection/tracks
+2024-08-10 13:21:57,632 - logic.ui.home_page - ERROR - Failed to double click liked list track: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1518:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+2024-08-10 13:21:57,632 - logic.ui.home_page - ERROR - Failed to double click liked list track: Message: Browsing context has been discarded
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchWindowError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:679:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.open@chrome://remote/content/shared/webdriver/Assert.sys.mjs:147:4
+GeckoDriver.prototype.findElement@chrome://remote/content/marionette/driver.sys.mjs:1518:15
+despatch@chrome://remote/content/marionette/server.sys.mjs:318:40
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+2024-08-10 13:23:35,994 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:23:35,994 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:23:35,994 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:23:40,367 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:23:40,633 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 13:23:42,575 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 13:23:42,575 - tests.utils - INFO - Loading cookies
+2024-08-10 13:23:44,107 - tests.utils - INFO - Cookies loaded
+2024-08-10 13:23:49,108 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 13:23:49,856 - logic.ui.home_page - ERROR - Failed to double click liked list track: 'NoneType' object has no attribute 'find_element'
+2024-08-10 13:23:49,856 - logic.ui.home_page - ERROR - Failed to double click liked list track: 'NoneType' object has no attribute 'find_element'
+2024-08-10 13:25:45,261 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:25:45,261 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:25:45,261 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:25:49,695 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:25:49,969 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 13:25:52,224 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 13:25:52,224 - tests.utils - INFO - Loading cookies
+2024-08-10 13:25:53,805 - tests.utils - INFO - Cookies loaded
+2024-08-10 13:25:58,806 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 13:27:34,186 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:27:34,186 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:27:34,186 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:27:38,680 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:27:38,937 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 13:27:40,603 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 13:27:40,603 - tests.utils - INFO - Loading cookies
+2024-08-10 13:27:42,275 - tests.utils - INFO - Cookies loaded
+2024-08-10 13:27:47,276 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 13:28:05,583 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 13:28:05,583 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 13:29:45,897 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:29:45,897 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:29:45,897 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:29:50,365 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:29:50,621 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 13:29:52,401 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 13:29:52,402 - tests.utils - INFO - Loading cookies
+2024-08-10 13:29:53,991 - tests.utils - INFO - Cookies loaded
+2024-08-10 13:29:58,992 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 13:30:16,603 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 13:30:16,603 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 13:35:44,312 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:35:44,312 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:35:44,312 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:35:48,713 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:35:48,997 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 13:35:50,670 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 13:35:50,670 - tests.utils - INFO - Loading cookies
+2024-08-10 13:35:53,511 - tests.utils - INFO - Cookies loaded
+2024-08-10 13:35:58,512 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 13:36:19,840 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 13:36:19,840 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 13:37:34,363 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:37:34,363 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:37:34,364 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:37:38,808 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:37:39,080 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 13:37:40,906 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 13:37:40,906 - tests.utils - INFO - Loading cookies
+2024-08-10 13:37:42,429 - tests.utils - INFO - Cookies loaded
+2024-08-10 13:37:47,430 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 13:38:09,188 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 13:38:09,188 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 13:40:07,241 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 13:40:07,241 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 13:40:07,242 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 13:40:11,679 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 13:40:11,949 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 13:40:14,224 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 13:40:14,224 - tests.utils - INFO - Loading cookies
+2024-08-10 13:40:15,858 - tests.utils - INFO - Cookies loaded
+2024-08-10 13:40:20,859 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 13:40:42,449 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 13:40:42,449 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:32:43,211 - test_add_track_to_liked_list - INFO - --------------------------
+2024-08-10 19:32:43,211 - test_add_track_to_liked_list - INFO - Loading configuration
+2024-08-10 19:32:43,211 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:32:48,002 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:32:48,270 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:32:50,659 - test_add_track_to_liked_list - INFO - Browser opened
+2024-08-10 19:32:50,659 - tests.utils - INFO - Loading cookies
+2024-08-10 19:32:52,315 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:32:57,316 - test_add_track_to_liked_list - INFO - Cookies loaded
+2024-08-10 19:32:57,316 - test_add_track_to_liked_list - INFO - Starting test: Add Track to Liked List
+2024-08-10 19:33:02,386 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:33:02,386 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:34:09,519 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-10 19:34:09,519 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-10 19:34:09,519 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:34:14,024 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:34:14,292 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:34:16,960 - tests.utils - INFO - Loading cookies
+2024-08-10 19:34:18,426 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:34:23,428 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-10 19:34:32,409 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:34:32,409 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:34:42,357 - test_create_playlist - INFO - --------------------------
+2024-08-10 19:34:42,357 - test_create_playlist - INFO - Loading configuration
+2024-08-10 19:34:42,357 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:34:46,858 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:34:47,123 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:34:48,776 - tests.utils - INFO - Loading cookies
+2024-08-10 19:34:50,330 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:34:55,330 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-10 19:36:02,032 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:36:02,032 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:36:38,845 - test_create_playlist - INFO - --------------------------
+2024-08-10 19:36:38,845 - test_create_playlist - INFO - Loading configuration
+2024-08-10 19:36:38,846 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:36:43,335 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:36:43,606 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:36:45,690 - tests.utils - INFO - Loading cookies
+2024-08-10 19:36:47,299 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:36:52,300 - test_create_playlist - INFO - Starting test: Create Playlist
+2024-08-10 19:37:59,166 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:37:59,167 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:38:01,223 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:38:01,223 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:38:01,224 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:01,224 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:05,696 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:05,696 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:05,955 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:05,955 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:07,587 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:38:07,587 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:07,587 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:09,104 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:09,104 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:14,105 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:38:19,782 - test_playback_controls_api - ERROR - Error during teardown: 404 Client Error: Not Found for url: https://api.spotify.com/v1/me/player/pause
+2024-08-10 19:38:19,784 - test_player_progress_bar - INFO - --------------------------
+2024-08-10 19:38:19,784 - test_player_progress_bar - INFO - Loading configuration
+2024-08-10 19:38:19,784 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:19,784 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:19,784 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:24,270 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:24,270 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:24,270 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:24,532 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:24,532 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:24,532 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:26,191 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:26,191 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:26,191 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:27,750 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:27,750 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:27,750 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:40,636 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-10 19:38:43,641 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:38:43,641 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:38:43,641 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:38:43,641 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:38:43,641 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:38:43,641 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:38:45,699 - test_Profile_info_api - INFO - --------------------------
+2024-08-10 19:38:45,699 - test_Profile_info_api - INFO - Loading configuration
+2024-08-10 19:38:45,700 - test_Profile_info_api - INFO - Starting test: Get profile information
+2024-08-10 19:38:45,798 - test_remove_track_from_playlist - INFO - --------------------------
+2024-08-10 19:38:45,798 - test_remove_track_from_playlist - INFO - Loading configuration
+2024-08-10 19:38:45,798 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:45,798 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:45,798 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:45,798 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:38:50,255 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:50,255 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:50,255 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:50,255 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:38:50,512 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:50,512 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:50,512 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:50,512 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:38:52,411 - test_remove_track_from_playlist - INFO - Browser opened
+2024-08-10 19:38:52,411 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:52,411 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:52,411 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:52,411 - tests.utils - INFO - Loading cookies
+2024-08-10 19:38:54,124 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:54,124 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:54,124 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:54,124 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:38:59,125 - test_remove_track_from_playlist - INFO - Cookies loaded
+2024-08-10 19:38:59,285 - test_remove_track_from_playlist - INFO - Starting test: Remove track from playlist
+2024-08-10 19:39:08,571 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:08,571 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:08,571 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:08,571 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:08,571 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:39:08,571 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:39:08,571 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:39:08,571 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:39:10,630 - test_search - INFO - --------------------------
+2024-08-10 19:39:10,630 - test_search - INFO - Loading configuration
+2024-08-10 19:39:10,630 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:39:10,630 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:39:10,630 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:39:10,630 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:39:10,630 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:39:15,148 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:39:15,148 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:39:15,148 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:39:15,148 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:39:15,148 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:39:15,407 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:39:15,407 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:39:15,407 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:39:15,407 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:39:15,407 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:39:17,087 - tests.utils - INFO - Loading cookies
+2024-08-10 19:39:17,087 - tests.utils - INFO - Loading cookies
+2024-08-10 19:39:17,087 - tests.utils - INFO - Loading cookies
+2024-08-10 19:39:17,087 - tests.utils - INFO - Loading cookies
+2024-08-10 19:39:17,087 - tests.utils - INFO - Loading cookies
+2024-08-10 19:39:19,007 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:39:19,007 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:39:19,007 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:39:19,007 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:39:19,007 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:39:24,008 - test_search - INFO - Starting test: Search for a specific song
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:39:25,977 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 19:41:14,509 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:41:14,509 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:41:14,510 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:41:18,918 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:41:19,188 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:41:21,057 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:41:21,057 - tests.utils - INFO - Loading cookies
+2024-08-10 19:41:22,541 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:41:27,542 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:41:32,732 - test_playback_controls_api - ERROR - Error during teardown: 404 Client Error: Not Found for url: https://api.spotify.com/v1/me/player/pause
+2024-08-10 19:42:28,492 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:42:28,492 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:42:28,493 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:42:32,871 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:42:33,139 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:42:34,714 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:42:34,714 - tests.utils - INFO - Loading cookies
+2024-08-10 19:42:36,265 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:42:41,266 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:42:45,743 - test_playback_controls_api - ERROR - Error during teardown: 404 Client Error: Not Found for url: https://api.spotify.com/v1/me/player/pause
+2024-08-10 19:45:13,200 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:45:13,200 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:45:13,201 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:45:17,582 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:45:17,844 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:45:19,429 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:45:19,430 - tests.utils - INFO - Loading cookies
+2024-08-10 19:45:21,019 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:45:26,020 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:45:30,595 - test_playback_controls_api - ERROR - Error during teardown: 404 Client Error: Not Found for url: https://api.spotify.com/v1/me/player/pause
+2024-08-10 19:48:22,328 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:48:22,329 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:48:22,329 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:48:26,757 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:48:27,051 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:48:28,684 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:48:28,685 - tests.utils - INFO - Loading cookies
+2024-08-10 19:48:30,151 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:48:35,152 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:48:47,228 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:48:47,228 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:48:47,228 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 19:49:19,474 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:49:19,474 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:49:19,474 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:49:24,025 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:49:24,287 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:49:25,914 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:49:25,914 - tests.utils - INFO - Loading cookies
+2024-08-10 19:49:27,694 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:49:32,695 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:49:49,071 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:49:49,071 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:49:49,071 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 19:50:23,155 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:50:23,155 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:50:23,156 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:50:27,727 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:50:27,995 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:50:29,748 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:50:29,748 - tests.utils - INFO - Loading cookies
+2024-08-10 19:50:31,248 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:50:36,249 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:50:51,445 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:50:51,445 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:50:51,445 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 19:51:09,741 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:51:09,742 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:51:09,742 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:51:14,288 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:51:14,546 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:51:16,183 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:51:16,183 - tests.utils - INFO - Loading cookies
+2024-08-10 19:51:17,694 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:51:22,695 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:51:44,782 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:51:44,782 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:51:44,782 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 19:52:08,705 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:52:08,705 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:52:08,705 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:52:13,144 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:52:13,417 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:52:15,091 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:52:15,091 - tests.utils - INFO - Loading cookies
+2024-08-10 19:52:16,632 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:52:21,633 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:52:35,686 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:52:35,686 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:52:35,686 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 19:53:09,472 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:53:09,472 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:53:09,472 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:53:13,948 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:53:14,207 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:53:15,815 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:53:15,815 - tests.utils - INFO - Loading cookies
+2024-08-10 19:53:17,461 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:53:22,462 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:53:35,289 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:53:35,289 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:53:35,289 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 19:54:05,815 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:54:05,815 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:54:05,815 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:54:10,311 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:54:10,581 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:54:12,257 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:54:12,257 - tests.utils - INFO - Loading cookies
+2024-08-10 19:54:13,754 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:54:18,755 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:54:32,941 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:54:32,941 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:54:32,941 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 19:57:51,473 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:57:51,473 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:57:51,474 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:57:55,899 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:57:56,170 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:57:57,807 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:57:57,807 - tests.utils - INFO - Loading cookies
+2024-08-10 19:57:59,355 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:58:04,356 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:58:06,342 - logic.ui.home_page - ERROR - Failed to click liked list play button: name 'liked_list_play_buttons' is not defined
+2024-08-10 19:58:06,342 - logic.ui.home_page - ERROR - Failed to click liked list play button: name 'liked_list_play_buttons' is not defined
+2024-08-10 19:58:06,342 - test_playback_controls_api - ERROR - Error during setup: name 'liked_list_play_buttons' is not defined
+2024-08-10 19:58:18,636 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:58:18,636 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:58:18,637 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:58:23,004 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:58:23,286 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:58:24,939 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:58:24,940 - tests.utils - INFO - Loading cookies
+2024-08-10 19:58:26,475 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:58:31,475 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:58:33,430 - logic.ui.home_page - ERROR - Failed to click liked list play button: name 'liked_list_play_buttons' is not defined
+2024-08-10 19:58:33,430 - logic.ui.home_page - ERROR - Failed to click liked list play button: name 'liked_list_play_buttons' is not defined
+2024-08-10 19:58:33,430 - test_playback_controls_api - ERROR - Error during setup: name 'liked_list_play_buttons' is not defined
+2024-08-10 19:59:25,982 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 19:59:25,982 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 19:59:25,982 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 19:59:30,433 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 19:59:30,695 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 19:59:33,656 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 19:59:33,656 - tests.utils - INFO - Loading cookies
+2024-08-10 19:59:35,241 - tests.utils - INFO - Cookies loaded
+2024-08-10 19:59:40,243 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 19:59:52,545 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:59:52,545 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 19:59:52,545 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 20:00:55,655 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:00:55,655 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:00:55,656 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:01:00,088 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:01:00,346 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:01:02,129 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:01:02,129 - tests.utils - INFO - Loading cookies
+2024-08-10 20:01:03,644 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:01:08,645 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:01:21,095 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 20:01:21,095 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 20:01:21,095 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 20:01:45,561 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:01:45,561 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:01:45,561 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:01:50,134 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:01:50,399 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:01:52,293 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:01:52,293 - tests.utils - INFO - Loading cookies
+2024-08-10 20:01:53,798 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:01:58,800 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:02:11,135 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 20:02:11,135 - logic.ui.home_page - ERROR - Failed to click liked list play button: Message: 
+
+2024-08-10 20:02:11,135 - test_playback_controls_api - ERROR - Error during setup: Message: 
+
+2024-08-10 20:03:19,036 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:03:19,036 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:03:19,037 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:03:23,542 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:03:23,801 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:03:25,475 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:03:25,475 - tests.utils - INFO - Loading cookies
+2024-08-10 20:03:26,991 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:03:31,992 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:03:45,489 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:03:45,489 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:04:03,524 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:04:03,524 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:04:03,524 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:04:07,896 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:04:08,181 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:04:09,732 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:04:09,732 - tests.utils - INFO - Loading cookies
+2024-08-10 20:04:11,261 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:04:16,262 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:04:43,968 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:04:43,968 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:05:06,906 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:05:06,906 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:05:06,907 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:05:11,292 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:05:11,579 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:05:13,393 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:05:13,394 - tests.utils - INFO - Loading cookies
+2024-08-10 20:05:14,943 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:05:19,944 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:05:46,591 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:05:46,591 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:05:57,528 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:05:57,529 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:05:57,529 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:06:02,044 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:06:02,307 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:06:04,121 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:06:04,121 - tests.utils - INFO - Loading cookies
+2024-08-10 20:06:05,714 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:06:10,716 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:06:37,413 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:06:37,413 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:09:31,310 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:09:31,311 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:09:31,311 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:09:35,776 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:09:36,040 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:09:38,050 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:09:38,051 - tests.utils - INFO - Loading cookies
+2024-08-10 20:09:39,565 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:09:44,566 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:10:17,096 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:10:17,096 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:11:01,519 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:11:01,520 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:11:01,520 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:11:06,058 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:11:06,320 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:11:08,092 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:11:08,092 - tests.utils - INFO - Loading cookies
+2024-08-10 20:11:09,728 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:11:14,729 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:11:31,653 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:11:31,653 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:11:54,853 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:11:54,853 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:11:54,854 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:11:59,329 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:11:59,600 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:12:01,205 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:12:01,205 - tests.utils - INFO - Loading cookies
+2024-08-10 20:12:02,674 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:12:07,674 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:12:43,371 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:12:43,371 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:12:56,766 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:12:56,766 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:12:56,766 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:13:01,285 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:13:01,542 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:13:03,286 - test_playback_controls_api - INFO - Browser opened
+2024-08-10 20:13:03,286 - tests.utils - INFO - Loading cookies
+2024-08-10 20:13:04,884 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:13:09,885 - test_playback_controls_api - INFO - Cookies loaded
+2024-08-10 20:13:46,100 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:13:46,100 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:18:16,083 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:18:16,083 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:18:16,084 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:18:20,569 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:18:20,829 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:18:22,652 - tests.utils - INFO - Loading cookies
+2024-08-10 20:18:24,220 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:18:45,465 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:18:45,465 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:20:29,161 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:20:29,161 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:20:29,161 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:20:33,584 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:20:33,847 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:20:35,575 - tests.utils - INFO - Loading cookies
+2024-08-10 20:20:37,094 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:20:54,457 - test_playback_controls_api - INFO - running test: adjust volume
+2024-08-10 20:20:58,451 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:20:58,451 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-10 20:21:30,830 - test_playback_controls_api - INFO - --------------------------
+2024-08-10 20:21:30,830 - test_playback_controls_api - INFO - Loading configuration
+2024-08-10 20:21:30,830 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-10 20:21:35,353 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-10 20:21:35,620 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-10 20:21:37,154 - tests.utils - INFO - Loading cookies
+2024-08-10 20:21:38,724 - tests.utils - INFO - Cookies loaded
+2024-08-10 20:21:55,990 - test_playback_controls_api - INFO - running test: pause playback
+2024-08-10 20:21:59,579 - test_playback_controls_api - INFO - running test: start playback
+2024-08-10 20:22:02,940 - test_playback_controls_api - INFO - running test: adjust volume
+2024-08-10 20:22:06,229 - test_playback_controls_api - INFO - running test: next track
+2024-08-10 20:22:09,586 - test_playback_controls_api - INFO - running test: previous track
+2024-08-10 20:22:12,960 - test_playback_controls_api - INFO - running test: repeat state
+2024-08-10 20:22:16,338 - test_playback_controls_api - INFO - running test: add track to queue
+2024-08-10 20:22:19,549 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-10 20:22:19,549 - infra.ui.browser_wrapper - INFO - --------------------------

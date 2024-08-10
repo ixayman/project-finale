@@ -34,4 +34,4 @@ if __name__ == '__main__':
     tests = list_test_files()  # List all available test files
     selected_tests = select_test_files(tests)  # Allow user to select test files
     run_pytest(selected_tests)  # Run pytest on the selected test files
-    jira_aio_upload(secret['jira_aio_token'], "KAN-CY-Adhoc")  # Upload the test results
+    jira_aio_upload(secret['jira_aio_token'], secret['jira_aio_cycle'])  # Upload the test results
