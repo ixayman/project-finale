@@ -336,3 +336,12 @@ class HomePage(BasePage):
         except Exception as e:
             self.logger.error("Failed to click liked list play button: %s", str(e))
             raise
+
+    def set_current_playback_track_flow(self, SampleSong):
+        """Set the current playback track flow."""
+        self.click_cookie_close_button()
+        self.click_search_button()
+        self.insert_in_search_field(SampleSong.name.value + ' ' + SampleSong.artist.value)
+        self.click_top_search_result()
+        self.click_result_play_button()
+        self.click_result_pause_button()

@@ -23,21 +23,18 @@ class TestPlayerProgressBar(unittest.TestCase):
             self.driver = self.browser.get_driver(self.config, "home_page")
             self.home_page = HomePage(self.driver)
             load_cookies(self.driver, self.config)
-            self.playback_api = PlaybackAPI()
-            self.home_page.click_cookie_close_button()
-            self.home_page.click_search_button()
-            self.home_page.insert_in_search_field(SampleSong.name.value + ' ' + SampleSong.artist.value)
-            self.home_page.click_top_search_result()
-            self.home_page.click_result_play_button()
-            self.home_page.click_result_pause_button()
         except Exception as e:
             self.logger.error("Error during setup: %s", str(e))
             raise
 
     def tearDown(self):
         """Clean up the test environment after each test case."""
-        self.browser.close_driver()
-        self.playback_api = None
+        try:
+            self.browser.close_driver()
+            self.playback_api = None
+        except Exception as e:
+            self.logger.error("Error during teardown: %s", str(e))
+            raise
 
     def test_adjust_progress_bar(self):
         """Test adjusting the player's progress bar."""
@@ -47,7 +44,9 @@ class TestPlayerProgressBar(unittest.TestCase):
         timestamp = SampleSong.duration.value * offset_percentage
 
         # Act
+        self.home_page.set_current_playback_track_flow(SampleSong)
         self.home_page.move_progress_bar(offset_percentage)
+        self.playback_api = PlaybackAPI()
         response = self.playback_api.get_currently_playing_track()
 
         # Assert

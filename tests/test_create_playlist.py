@@ -22,7 +22,6 @@ class TestAddTrackToPlaylist(unittest.TestCase):
             self.driver = self.browser.get_driver(self.config, "home_page")
             self.home_page = HomePage(self.driver)
             load_cookies(self.driver, self.config)
-            self.playlist_api = PlaylistAPI()
             self.new_playlist_id = None
         except Exception as e:
             self.logger.error("Error during setup: %s", str(e))
@@ -59,6 +58,7 @@ class TestAddTrackToPlaylist(unittest.TestCase):
         self.home_page.refresh_page()
 
         # Verify the new playlist is created
+        self.playlist_api = PlaylistAPI()
         user_playlists = self.playlist_api.get_user_playlists()
         playlist = self.playlist_api.get_playlist_via_name_from_playlists(new_playlist_name, user_playlists.data)
         self.assertTrue(playlist, f"Playlist with name {new_playlist_name} not found in playlists")

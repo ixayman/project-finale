@@ -21,10 +21,7 @@ class TestAddTrackToLikedList(unittest.TestCase):
             self.browser = BrowserWrapper()
             self.driver = self.browser.get_driver(self.config, "home_page")
             self.home_page = HomePage(self.driver)
-            self.logger.info("Browser opened")
             load_cookies(self.driver, self.config)
-            self.logger.info("Cookies loaded")
-            self.playlist_api = PlaylistAPI()
         except Exception as e:
             self.logger.error("Error during setup: %s", str(e))
             raise
@@ -51,6 +48,7 @@ class TestAddTrackToLikedList(unittest.TestCase):
         self.home_page.click_save_to_library_button()
 
         # Verify that the track is added to the liked list
+        self.playlist_api = PlaylistAPI()
         response = self.playlist_api.get_liked_songs()
         self.assertEqual(response.status_code, 200, f"Expected status code 200, got {response.status_code}")
         self.assertTrue(self.playlist_api.check_item_in_playlist(response.data, SampleSong.id.value))

@@ -38,17 +38,17 @@ def jira_aio_upload(token, cycle_id):
         query = {
             'type': 'JUnit'
         }
+        data = {
+            'updateDatasets': 'true',
+            'createNewRun': 'true',
+            'addCaseToCycle': 'true'
+        }
 
         report_path = os.path.join(os.path.dirname(__file__), '../report.xml')
         # Open the file in a context manager to ensure it's properly closed
         with open(report_path, 'rb') as file:
             files = {
                 'file': ('report.xml', file)
-            }
-            data = {
-                'updateDatasets': 'true',
-                'createNewRun': 'true',
-                'addCaseToCycle': 'true'
             }
 
             # Make the request

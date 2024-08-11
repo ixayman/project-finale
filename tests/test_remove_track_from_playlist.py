@@ -21,9 +21,7 @@ class TestRemoveTrackFromPlaylist(unittest.TestCase):
             self.browser = BrowserWrapper()
             self.driver = self.browser.get_driver(self.config, "home_page")
             self.home_page = HomePage(self.driver)
-            self.logger.info("Browser opened")
             load_cookies(self.driver, self.config)
-            self.logger.info("Cookies loaded")
             self.playlist_api = PlaylistAPI()
             self.playlist_api.add_track_to_playlist(SamplePlaylist.id.value, SampleSong.id.value)
         except Exception as e:

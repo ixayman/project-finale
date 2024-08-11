@@ -2459,3 +2459,123 @@ _onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
 2024-08-10 20:22:16,338 - test_playback_controls_api - INFO - running test: add track to queue
 2024-08-10 20:22:19,549 - infra.ui.browser_wrapper - INFO - browser closed
 2024-08-10 20:22:19,549 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 09:27:18,916 - test_player_progress_bar - INFO - --------------------------
+2024-08-11 09:27:18,916 - test_player_progress_bar - INFO - Loading configuration
+2024-08-11 09:27:18,916 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 09:27:23,919 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 09:27:24,199 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 09:27:26,050 - tests.utils - INFO - Loading cookies
+2024-08-11 09:27:27,643 - tests.utils - INFO - Cookies loaded
+2024-08-11 09:27:40,616 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-11 09:27:43,854 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 09:27:43,854 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 09:49:46,611 - test_playback_controls_api - INFO - --------------------------
+2024-08-11 09:49:46,612 - test_playback_controls_api - INFO - Loading configuration
+2024-08-11 09:49:46,612 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 09:49:51,247 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 09:49:51,508 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 09:49:53,246 - tests.utils - INFO - Loading cookies
+2024-08-11 09:49:55,075 - tests.utils - INFO - Cookies loaded
+2024-08-11 09:50:00,096 - test_playback_controls_api - ERROR - Error during setup: Message: WebDriver session does not exist, or is not active
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSessionIDError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:448:5
+assert.that/<@chrome://remote/content/shared/webdriver/Assert.sys.mjs:515:13
+assert.session@chrome://remote/content/shared/webdriver/Assert.sys.mjs:37:4
+despatch@chrome://remote/content/marionette/server.sys.mjs:315:19
+execute@chrome://remote/content/marionette/server.sys.mjs:289:16
+onPacket/<@chrome://remote/content/marionette/server.sys.mjs:262:20
+onPacket@chrome://remote/content/marionette/server.sys.mjs:263:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:494:20
+
+2024-08-11 09:50:08,056 - test_player_progress_bar - INFO - --------------------------
+2024-08-11 09:50:08,057 - test_player_progress_bar - INFO - Loading configuration
+2024-08-11 09:50:08,057 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 09:50:12,592 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 09:50:12,856 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 09:50:14,512 - tests.utils - INFO - Loading cookies
+2024-08-11 09:50:16,072 - tests.utils - INFO - Cookies loaded
+2024-08-11 09:50:29,022 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-11 09:50:32,040 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 09:50:32,040 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 10:11:40,514 - test_player_progress_bar - INFO - --------------------------
+2024-08-11 10:11:40,514 - test_player_progress_bar - INFO - Loading configuration
+2024-08-11 10:11:40,515 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 10:11:44,993 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 10:11:45,257 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 10:11:46,864 - tests.utils - INFO - Loading cookies
+2024-08-11 10:11:48,452 - tests.utils - INFO - Cookies loaded
+2024-08-11 10:12:01,347 - test_player_progress_bar - INFO - Starting test: Move Progress Bar
+2024-08-11 10:12:04,600 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 10:12:04,600 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 10:20:31,898 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-11 10:20:31,898 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-11 10:20:31,898 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 10:20:36,383 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 10:20:36,643 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 10:20:39,031 - tests.utils - INFO - Loading cookies
+2024-08-11 10:20:40,670 - tests.utils - INFO - Cookies loaded
+2024-08-11 10:20:45,670 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-11 10:20:54,579 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 10:20:54,579 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 10:21:22,664 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-11 10:21:22,664 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-11 10:21:22,664 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 10:21:27,207 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 10:21:27,504 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 10:21:29,436 - tests.utils - INFO - Loading cookies
+2024-08-11 10:21:31,020 - tests.utils - INFO - Cookies loaded
+2024-08-11 10:21:36,021 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-11 10:21:45,669 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 10:21:45,669 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 10:23:10,473 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-11 10:23:10,473 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-11 10:23:10,474 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 10:23:15,025 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 10:23:15,288 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 10:23:16,751 - tests.utils - INFO - Loading cookies
+2024-08-11 10:23:18,506 - tests.utils - INFO - Cookies loaded
+2024-08-11 10:23:23,506 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-11 10:23:32,393 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 10:23:32,393 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 10:24:49,971 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-11 10:24:49,971 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-11 10:24:49,972 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 10:24:54,422 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 10:24:54,690 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 10:24:56,282 - tests.utils - INFO - Loading cookies
+2024-08-11 10:24:58,205 - tests.utils - INFO - Cookies loaded
+2024-08-11 10:25:03,205 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-11 10:25:12,097 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 10:25:12,097 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 10:25:56,118 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-11 10:25:56,119 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-11 10:25:56,119 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 10:26:00,558 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 10:26:00,823 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 10:26:02,479 - tests.utils - INFO - Loading cookies
+2024-08-11 10:26:03,969 - tests.utils - INFO - Cookies loaded
+2024-08-11 10:26:08,970 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-11 10:26:19,788 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 10:26:19,788 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 10:31:15,518 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-11 10:31:15,518 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-11 10:31:15,519 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 10:31:20,215 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 10:31:20,479 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 10:31:22,272 - tests.utils - INFO - Loading cookies
+2024-08-11 10:31:23,965 - tests.utils - INFO - Cookies loaded
+2024-08-11 10:31:28,965 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-11 10:31:39,475 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 10:31:39,475 - infra.ui.browser_wrapper - INFO - --------------------------
+2024-08-11 10:32:02,752 - test_add_track_to_playlist - INFO - --------------------------
+2024-08-11 10:32:02,752 - test_add_track_to_playlist - INFO - Loading configuration
+2024-08-11 10:32:02,752 - infra.ui.browser_wrapper - INFO - Browser selected: Firefox
+2024-08-11 10:32:07,239 - infra.ui.browser_wrapper - INFO - Browser opened
+2024-08-11 10:32:07,504 - infra.ui.browser_wrapper - INFO - Navigating to URL: https://open.spotify.com/
+2024-08-11 10:32:09,387 - tests.utils - INFO - Loading cookies
+2024-08-11 10:32:11,069 - tests.utils - INFO - Cookies loaded
+2024-08-11 10:32:16,070 - test_add_track_to_playlist - INFO - Starting test: Add Track to Playlist
+2024-08-11 10:32:25,115 - infra.ui.browser_wrapper - INFO - browser closed
+2024-08-11 10:32:25,115 - infra.ui.browser_wrapper - INFO - --------------------------

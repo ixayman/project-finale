@@ -23,7 +23,6 @@ class TestLogin(unittest.TestCase):
             self.browser = BrowserWrapper()
             self.driver = self.browser.get_driver(self.config, "home_page")
             self.home_page = HomePage(self.driver)
-            self.logger.info("Browser opened")
             self.user_api = UserAPI()
         except Exception as e:
             self.logger.error(f"Error in setUp: {e}")
